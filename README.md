@@ -45,7 +45,6 @@ In all its forms, Born in Latent Space invites audiences into the speculative an
 **Duration:** 25 to 45 minutes (adjusted to the context and venue)
 
 **Upcoming Performances:**
-- **CAME Innovation Summit 2025** @ University of Florida, Gainesville, Florida, USA – **April 11 2025**
 
 - **OOTFest25 (UN)SEEN** @ Riverside Studios & Open Online Theatre, London, UK – **June 5 – 8 2025** – [Tickets](https://riversidestudios.co.uk/see-and-do/ootfest25-unseen-performances-172208/)  [oai_citation:0‡Riverside Studios](https://riversidestudios.co.uk/see-and-do/ootfest25-unseen-performances-172208/?utm_source=chatgpt.com)
 
