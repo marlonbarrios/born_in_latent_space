@@ -4,6 +4,8 @@
 
 **performance + creative coding + generative AI + sound + concept by Marlon Barrios Solano**
 
+[Back to home page](https://marlonbarrios.github.io/)
+
 *This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.*  
 — James Bridle
 
@@ -264,6 +266,9 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 
 
 ### Śūnyatā
+
+- [Enso](https://marlonbarrios.github.io/black_ink_enso/)
+
 - [LIVE APP](https://noiseinlatentspace.vercel.app/)
 
 **Digretions in Latent Space (The Music Album** is a collection of 14 tracks created to support the performance lecture Born in Latent Space
@@ -271,6 +276,8 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 <img alt="Screenshot 2025-04-03 at 6 35 37 PM" src="https://github.com/user-attachments/assets/ff370dbd-fc8e-42c1-ad5f-10b1d7038af7"  alt="Screenshot 2025-03-12 at 11 04 49 PM" width="500" />
 
 [ALBUM](https://marlonbarriossolano.bandcamp.com/album/digressions-in-latent-space)
+
+[Back to home page](https://marlonbarrios.github.io/)
 
 +++++++++++++++++++++++++++++++++++++++++++++
 
