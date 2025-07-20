@@ -240,7 +240,7 @@ TongueZap is an interactive webcam game where you become a chameleon trying to c
 - [LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
 
 
-### Pangesa People | What if Europe never existed?
+### Pangea People | What if Europe never existed?
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/ogininarios)  
 - [LIVE APP](https://originarios.vercel.app/)
