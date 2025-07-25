@@ -161,7 +161,7 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 
 ### Conversations with a Possible Mind
 
-- [LIVE APP](https://empathic-voice-interface-starter-khyysvvqd.vercel.app/)
+- [LIVE APP](https://platform.hume.ai/evi/playground?configId=1194886e-4636-4590-bfd4-428542afb354)
 
 [VIDEO of Conversations with Possible Minds – Duets in Latent Space @ Live Arts Festival 2024 Cape Town, SA](https://youtu.be/WNAUKmtXF6g?si=P_j_7FI9gcGLN3R4)
 
