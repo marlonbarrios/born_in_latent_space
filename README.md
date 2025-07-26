@@ -106,15 +106,16 @@ It is a **terrain we pass through**—together.
 **Artist:** Marlon Barrios Solano  
 
 
-## Upcoming Performances
+## Upcoming 
 
 
-- **Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
+- **Performance Lecture at Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
 
 - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
 
 ## It has been presented at
 
+- **Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 22 2025** – [workshop](https://lakestudiosberlin.com/event/submerge-festival-2025/)  
 - **OOTFest25 (UN)SEEN** @ Riverside Studios & Open Online Theatre, London, UK – **June 5 – 8 2025** 
 - **CAME Innovation Summit 2025** @ , University of Florida, Gainesville, Florida, USA – **April 11th, 2025**
 - **Innovation Hub** @ , Florida State University, Talahassee, Florida, USA – **April 9th, 2025**
