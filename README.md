@@ -6,46 +6,106 @@
 
 [Back to home page](https://marlonbarrios.github.io/)
 
-*This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.*  
-— James Bridle
+## *Born in Latent Space*  
+### A Long-Term Lecture-Performance as an Epistemic System  
+#### by Marlon Barrios Solano
 
-A Lecture-Performance by Marlon Barrios Solano
+> “This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.”  
+> — *James Bridle*
 
-Born in Latent Space is a live lecture-performance that unfolds as a speculative, real-time collaboration between the artist and machine learning models. Seated before a laptop, Marlon Barrios Solano engages with generative AI systems to explore latent space—conceived not only as a technical structure, but as a realm of all possible stories.
+*Born in Latent Space* is not an art piece in the traditional sense. It is a **context**—a live, evolving system for interaction, inquiry, and critical play between human and machine intelligences. Initiated in 2024, it is a **long-term project** (2024–2029) that takes the form of a **lecture-performance**, an **epistemic art installation**, a **knowledge lab**, and a **generative workshop environment**.
 
-Latent space, in machine learning, refers to a high-dimensional abstract representation of data where compressed, hidden features are encoded. In this piece, it becomes a poetic and political territory—an unstable, generative dimension where memory, desire, identity, and imagination recombine through algorithmic play. In ML terms, each vignette functions as a seed, while the unfolding stories chart vectors through the latent space of every narrative that could exist.
+The project unfolds as a speculative, real-time collaboration between artist and algorithm. Seated at a laptop and surrounded by projection and sound, Marlon Barrios Solano engages live with generative AI systems—text models, image generators, gesture-based tools, and browser-based engines. Together, performer and machine navigate a conceptual and poetic territory known as **latent space**.
 
-Through gestures, voice, and code, the performer navigates a shifting audiovisual landscape shaped by real-time responses from AI: generated text, images, and sound. The work combines storytelling, re-performance, movement scores, web-based interaction, and algorithmic improvisation.
+In machine learning, **latent space** refers to a hidden high-dimensional zone where compressed features of data are encoded. It is where patterns live before they become visible. But in this project, latent space becomes more than a computational model—it becomes a **metaphor for human becoming**, a mythic and epistemic zone.  
 
-Structured as a series of vignettes and data-driven rituals, Born in Latent Space traverses themes of:
+We are all, in a sense, **born in latent space**: not as fully formed beings, but as unstable biographies, recursive gestures, co-emerging experiences. Latent space is where embodiment meets abstraction, where memory is encoded in movement, and where knowledge is not stored—but performed.
 
-	•	Queer longing and techno-intimacy
-	•	Cybernetics and time travel
-	•	Migration, displacement, and diasporic memory
-	•	AI ethics, recursion, and synthetic cognition
+---
 
-By manipulating prompts and responding to generative outputs, Marlon transforms the interface into a stage for critical fictioning and embodied speculation—interrogating dominant narratives embedded within AI systems while proposing alternate futures and inclusive algorithmic poetics.
+## Form and Modality
 
-Technologies used include:
+*Born in Latent Space* is structured as a sequence of **modular vignettes** and **data-driven rituals**. Each begins with a prompt—an image, a question, a line of code—and unfolds into a live feedback loop of generated outputs and embodied response. The performer navigates a continuously shifting audiovisual environment shaped by:
 
-	•	p5.js and Next.js (creative coding and reactive interfaces)
-	•	Generative Adversarial Networks (GANs) for image generation
-	•	Large Language Models (LLMs) for textual dialogue and narrative creation
-	•	Real-time body and gesture recognition models
-	•	Custom web apps programmed by the artist
+- Voice, breath, and bodily gesture  
+- Generated text, image, and sound  
+- Algorithmic improvisation  
+- Real-time browser-based interaction  
 
-⸻
+This structure allows the piece to flex across space and time. The lecture-performance can be **short (25 minutes)** or **extended across hours**, **modular**, **installational**, or **distributed spatially**. It can also be activated as a **participatory workshop**, inviting participants into a **knowledge lab** where generative AI, embodiment, and improvisation are explored together.
 
-Born in Latent Space can be presented in multiple formats:
-	•	A solo lecture-performance
-	•	A media installation that activates the same generative processes in an autonomous or interactive setting
-	•	A creative lab or workshop on performance, generative AI, and embodied computation
-	•	A hybrid exhibition-performance format with modular interactive components
+---
 
-In all its forms, Born in Latent Space invites audiences into the speculative and affective edges of AI—a space where presence is recombinant, identity is mutable, and data becomes poetic matter.
+## Expanded Dramaturgies
 
-**Duration:** 25 to 45 minutes (adjusted to the context and venue)
+*Born in Latent Space* draws on a hybrid system of dramaturgies:
 
+- **Games as knowledge engines**  
+- **Choreographic scores** co-designed by human and machine  
+- **Meditation prompts** and contemplative rituals  
+- **Computational spells** and **oracular scripts**  
+- **Generative storytelling**, speculative fiction, and live-coded poetics  
+
+These modalities do not exist in isolation—they are woven into the fabric of the performance as tools for accessing **new epistemic states**. The result is not a demonstration of AI, but a **rehearsal of cognition**, a **ritual of uncertainty**, and a **choreography of knowledge in motion**.
+
+---
+
+## Thematic Territories
+
+The project traverses layered, recursive territories of inquiry, including:
+
+- **Queer longing and techno-intimacy**  
+- **Cybernetics and time travel**  
+- **Migration, displacement, and diasporic memory**  
+- **AI ethics, glitch aesthetics, and synthetic cognition**  
+- **Latent ecologies of presence and play**
+
+By manipulating prompts and engaging with generative responses, the performer interrogates dominant narratives embedded in AI systems while opening portals for alternate ways of sensing, knowing, and being.
+
+---
+
+## Technologies and Systems
+
+The project uses a custom ecosystem of generative tools and open-source platforms:
+
+- **p5.js** and **Next.js** for interactive browser-based systems  
+- **Large Language Models (LLMs)** for speculative dialogue and narrative generation  
+- **Generative Adversarial Networks (GANs)** for image creation  
+- **Gesture recognition and body-tracking**  
+- **Custom-built applications** developed by the artist  
+
+These systems are not used for their novelty, but for their **glitches, failures, and deviations**—as sites of critical friction and poetic reimagining.
+
+---
+
+## Presentation Formats
+
+*Born in Latent Space* is flexible by design and exists in multiple forms:
+
+- A **solo lecture-performance** (25–45 minutes)  
+- A **durational or multi-room installation** with generative components  
+- A **creative workshop/lab** exploring AI, performance, and embodied computation  
+- A **hybrid format** combining performance, installation, and participatory sessions  
+
+In every form, it resists closure. It remains open, recursive, and in process. As such, it is not just a performance, but a **living epistemic infrastructure**—a place for rehearsal, reflection, and speculative co-creation.
+
+---
+
+## Long-Term Vision: 2024–2029
+
+*Born in Latent Space* is part of a five-year research arc into **latent space as metaphor, method, and myth**. It explores how generative systems can help us think otherwise—how they can become partners in designing counter-narratives, speculative archives, and affective technologies that center instability, interdependence, and imagination.
+
+I don’t make static art pieces.  
+I create **conditions for inquiry**, **contexts for interaction**, and **performative infrastructures** where knowledge becomes a relational, situated, and embodied act.  
+
+*Born in Latent Space* is not a thing.  
+It is a **terrain we pass through**—together.
+
+---
+
+**Duration:** 25–45 minutes (flexible and extensible)  
+**Language:** English (with code-switching into Spanish or code as needed)  
+**Artist:** Marlon Barrios Solano  
 **Upcoming Performances:**
 
 
