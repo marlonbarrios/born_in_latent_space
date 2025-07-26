@@ -104,14 +104,16 @@ It is a **terrain we pass through**—together.
 **Duration:** 25–45 minutes (flexible and extensible)  
 **Language:** English (with code-switching into Spanish or code as needed)  
 **Artist:** Marlon Barrios Solano  
-**Upcoming Performances:**
+
+
+## Upcoming Performances
 
 
 - **Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
 
 - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
 
-**It has been presented at:**
+## It has been presented at
 
 - **OOTFest25 (UN)SEEN** @ Riverside Studios & Open Online Theatre, London, UK – **June 5 – 8 2025** 
 - **CAME Innovation Summit 2025** @ , University of Florida, Gainesville, Florida, USA – **April 11th, 2025**
@@ -125,8 +127,6 @@ It is a **terrain we pass through**—together.
 - **Generative AI, Arts and Ethics Think-Tank** @ Château de Fey, France – **March 5th, 2024**
 - **ACCAD Future Tech** @ The Ohio State University (OSU Dance, Online) – **February 22nd, 2024**
 - **Unfinished Fridays** @ Berlin Lake Studios – **February 23rd, 2024**
-
-It can be adapted as installation-performances, installations, online apps, and as in-person and online lecture-performances.
 
 ---
 
