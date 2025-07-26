@@ -1,5 +1,5 @@
 ## *Born in Latent Space*  
-### PEpistemic Performance with Possible Minds  
+### Epistemic Performance with Possible Minds
 #### by Marlon Barrios Solano
 
 <img src="https://github.com/user-attachments/assets/00aa7335-7b8d-4d6b-8d84-8e58fb9ca52c" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
