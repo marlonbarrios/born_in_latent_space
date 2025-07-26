@@ -1,14 +1,12 @@
-# Born in Latent Space
+## *Born in Latent Space*  
+### PEpistemic Performance with Possible Minds  
+#### by Marlon Barrios Solano
 
 <img src="https://github.com/user-attachments/assets/00aa7335-7b8d-4d6b-8d84-8e58fb9ca52c" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
 
 **performance + creative coding + generative AI + sound + concept by Marlon Barrios Solano**
 
 [Back to home page](https://marlonbarrios.github.io/)
-
-## *Born in Latent Space*  
-### A Long-Term Lecture-Performance as an Epistemic System  
-#### by Marlon Barrios Solano
 
 > “This is the unseeable space in which machine learning makes its meaning. Beyond that which we are incapable of visualizing is that which we are incapable of even understanding.”  
 > — *James Bridle*
