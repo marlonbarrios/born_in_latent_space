@@ -128,7 +128,12 @@ It is a **terrain we pass through**—together.
 - **ACCAD Future Tech** @ The Ohio State University (OSU Dance, Online) – **February 22nd, 2024**
 - **Unfinished Fridays** @ Berlin Lake Studios – **February 23rd, 2024**
 
----
+I’d also like to acknowledge the support and fellowships that have enabled this evolving work:
+
+- **Supported through several art‑research residencies at [Lake Studios Berlin](https://lakestudiosberlin.com/)** since 2024, offering space to develop *Born in Latent Space* in a creative setting.
+- **A research grant from [fal.ai Research Grants](https://fal.ai/grants)**, focused on real‑time low‑latency model development and creative ussage.
+- **Residency support at [Radiona – Zagreb Makerspace](https://radiona.org/artist-in-residence/)** in Croatia.
+- **The ongoing Maker‑in‑Residence position at the [Center for Arts, Migration, and Entrepreneurship (CAME)](https://arts.ufl.edu/sites/center-for-arts-migration-and-entrepreneurship/programs-research/)** at the University of Florida.
 
 ## Seeds and Vectors
 
