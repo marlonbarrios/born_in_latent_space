@@ -159,6 +159,23 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 
 ### A Hand is Four Relationships
 
+<img width="1523" height="1023" alt="Screenshot 2025-07-27 at 3 11 44 PM" src="https://github.com/user-attachments/assets/f45515bb-959e-4a72-bf6c-3580d1e833a0" />
+
+This part of *Born in Latent Space* traces back to a moment—an image, really—that’s stayed with me for decades. Gregory Bateson. The Mental Research Institute in Palo Alto. One of his students told me this story. Bateson walked in and asked the group: *“What is a hand?”*
+
+People responded, predictably: a tool, a limb, a thing we use to grab. But he shook his head.  
+*“No,”* he said. *“A hand is four relationships.”*
+
+That sentence cracked something open in me.
+
+You see, I had a teacher in Venezuela who had studied with Bateson, and through her, I inherited this way of thinking—this way of seeing. I was studying cognitive science in Maracaibo at the time. I thought I was learning about the brain, about perception, about logic. But suddenly, everything shifted.
+
+Because it wasn’t about *things* anymore—it was about *relationships*. It was about the patterns *between* things. The hand isn’t just a hand. It’s an emergent coordination of parts—bone, muscle, nerve, intention, history—moving in relation. Four relationships. Or maybe more.
+
+Since then, my work—across performance, across code, across bodies and systems—has been about this. About undressing the world. Not to strip it bare, but to feel the weave, the entanglements, the recursive loops where meaning grows. An *ecosystemic epistemology*. Not what something *is*, but how it *relates*.
+
+*Born in latent space. Born in the mesh. Born in that question: What is a hand?*
+
 - **Model:** MediaPipeGesture Recognition  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/ahandisfourrelationships)  
 - [LIVE APP](https://marlonbarrios.github.io/ahandisfourrelationships/)
