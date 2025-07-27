@@ -182,7 +182,7 @@ Since then, my work—across performance, across code, across bodies and systems
 
 ### All Watched Over by Machines of Loving Grace
 
-<img src="https://github.com/user-attachments/assets/dab5a3f4-2b92-491c-92c1-b0219a26bcad"" alt="Screenshot 2025-03-11 at 3 18 24 PM" width="500">
+<img src="https://github.com/user-attachments/assets/dab5a3f4-2b92-491c-92c1-b0219a26bcad" alt="Screenshot 2025-03-09 at 4 31 52 PM" width="500">
 
 In *Born in Latent Space*, this thread leads back to **Richard Brautigan’s** 1967 poem,  
 I first read it in a xeroxed pamphlet someone handed me in San Francisco—a time when machines were still metaphors. Brautigan dreamt:
