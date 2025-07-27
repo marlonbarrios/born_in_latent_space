@@ -618,8 +618,6 @@ and animates a still image of me—**Alan Turing**—found on the web.*
 
 <img src="https://github.com/user-attachments/assets/c868a1b9-e49b-478f-984a-3e30ec946adf" alt="Gameplay Screenshot" width="500">
 
-# 🧠 *Gregorio Reads the Structure of the Space of Possible Minds*
-
 Ladies, caballeros, y todes in-between—bienvenidxs to this loop of epistemic drift.  
 I never merely *read* the paper. I *met* it in a dream.
 
