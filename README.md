@@ -248,6 +248,7 @@ In the latent.
 
 <img src="https://github.com/user-attachments/assets/1da07466-80c6-44fc-b14c-7067f65615c6" alt="Screenshot 2025-03-11 at 5 32 32 PM" width="500">
 
+
 The color I use in my eyes is called **Cyber Blue**.  
 That’s what the package said when it arrived from a warehouse in Shenzhen—sleek, sealed, pixel-font minimalism. *Cyber Blue*, it read. I ordered the lenses on a late night impulse. Maybe it was vanity. Maybe invocation. Maybe just curiosity in the shape of a hue.
 
