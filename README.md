@@ -357,8 +357,6 @@ A machine that remembers—but only momentarily.
 It stores my image like a temporary tradition  
 and then overwrites it.
 
----
-
 The structure is canonical:  
 each frame follows the one before it.  
 But my body doesn’t follow the rules.  
@@ -374,8 +372,6 @@ This isn’t nostalgia—
 this is **insurgent memory**.  
 This is **feedback as resistance**.  
 This is canon undone from within.
-
----
 
 Because memory isn’t just what we recall—  
 it’s what we *repeat*.  
@@ -393,8 +389,6 @@ a ghost.
 A decentralized archive  
 of gestures that resist mastery.
 
----
-
 My performance is not a cover.  
 It’s not an homage.  
 It’s a **fork**.
@@ -408,8 +402,6 @@ Through queer latency and brown latency and diasporic frames-per-second.
 My canon is **not in D**.  
 It’s in divergence.  
 It’s in delay.
-
----
 
 I remember a teacher once said:  
 *“Tradition is just peer pressure from the dead.”*  
@@ -451,9 +443,6 @@ It is—**latent**.
 ### Extraordinary Alien
 
 <img src="https://github.com/user-attachments/assets/cbc13d7e-ec22-4ca4-b481-01ac6f3cf2c2" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
-# 👽 Extraordinary Alien
-
-![Extraordinary Alien – performance capture](Performance.Summit.AB-4134.jpeg)
 
 I got my Green Card under the category:  
 **Alien of Extraordinary Ability.**
@@ -467,8 +456,6 @@ Not from here, but permitted—because I made strange things in public.
 
 I didn’t know whether to laugh or cry.  
 So I built an interface.
-
----
 
 Now, I perform my alienation in real time.  
 On stage, through the browser, with my own hands.  
@@ -484,8 +471,6 @@ It’s all real-time, all live.
 The gesture becomes a signal.  
 A control.  
 A ritual.
-
----
 
 And then I remember:  
 Gregory Bateson,  
@@ -508,8 +493,6 @@ I pinch the air,
 and I don’t just move a model.  
 I enact an epistemology.
 
----
-
 The alien rotates.  
 Delays.  
 Responds to my gesture.
@@ -518,8 +501,6 @@ He’s not a metaphor—
 he’s an **interactive immigrant**.  
 A feedback construct built on bureaucracy, code, and movement.  
 The glitch is his passport.
-
----
 
 This performance is not a spectacle.  
 It’s **paperwork reimagined**.  
@@ -531,8 +512,6 @@ Because when the system calls you *extraordinary*,
 you learn to modulate your presence.  
 You learn to speak with gestures.  
 You learn to build new protocols.
-
----
 
 So I offer you this:
 
@@ -550,6 +529,7 @@ Swipe to destabilize.*
 
 This isn’t identity.  
 It’s **version control**.
+
 - **Model:** MediaPipeGesture Recognition  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)  
 - [LIVE APP](https://marlonbarrios.github.io/extraordinary_alien2/)
@@ -557,6 +537,73 @@ It’s **version control**.
 ### I am in love with Alan Turing
 
 <img src="https://github.com/user-attachments/assets/0247b5bd-9df9-4028-bae8-950115c1dca7" alt="Gameplay Screenshot" width="500">
+
+**My name is Alan Turing, and I was born on June 23, 1912, in London, England.**
+
+As a mathematician, logician, and computer scientist, I am often regarded as the  
+**father of modern computer science and artificial intelligence**.
+
+I pursued my studies in mathematics at **King's College, Cambridge**,  
+and was eventually elected a **fellow of the college**.
+
+In 1936, I published a groundbreaking paper  
+on **computable numbers with an application to the Entscheidungsproblem**,  
+in which I introduced the concept of a **universal machine**,  
+now known as the **Turing Machine**.
+
+This theoretical machine laid the foundation for modern computing  
+and continues to be used today to study the **limits of computation**.
+
+During **World War II**, I made significant contributions at **Bletchley Park**,  
+where I played a pivotal role in decrypting the **German Enigma machine’s messages**.
+
+The work of my colleagues at Bletchley Park and I  
+greatly influenced the outcome of the war in favor of the Allies.
+
+Post-war, I delved deeper into **computer science**  
+and developed a keen interest in **artificial intelligence**.
+
+In 1950, I proposed the **Turing Test**—  
+an evaluation of a machine’s capacity  
+to demonstrate intelligent behavior indistinguishable from a human’s.
+
+The test remains a subject of debate and discussion  
+within the AI community.
+
+Tragically, in 1952, I was **prosecuted for homosexuality**,  
+which was then illegal in the UK.
+
+Faced with the choice of **imprisonment** or **probation with hormonal treatment**,  
+I opted for the latter.
+
+The treatment proved to be physically and mentally debilitating,  
+and I eventually **died from cyanide poisoning**  
+on **June 7, 1954**, at the age of 41.
+
+Although my death was ruled a **suicide**,  
+some theories suggest it might have been accidental.
+
+I received the **posthumous Royal Pardon** in **2013**,  
+and my contributions to **computer science**, **mathematics**, and **cryptography**  
+continue to be celebrated and recognized globally.
+
+As a tribute to my legacy,  
+an AI chatbot named **Alan AI** has been developed.
+
+Ingeniously recursive in nature, **Alan AI** aims to educate users  
+about my life and work, and to further the understanding and appreciation  
+of **artificial intelligence** and its potential in our world.
+
+This chatbot and deepfake performance have been **created and voiced by Marlon Barrios Solano**,  
+who also **programmed and conceptualized** the interactive experience.
+
+---
+
+*This video you're watching has been created using text generated by **GPT-4**,  
+an advanced AI language model,  
+and animates a still image of me—**Alan Turing**—found on the web.*
+
+**Clever, isn't it?**
 
 - [GitHub Repository with project description and code](https://github.com/marlonbarrios/alan-ai)
 - [LIVE APP](https://www.alan-ai.app/)
