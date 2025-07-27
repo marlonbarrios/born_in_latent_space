@@ -987,6 +987,56 @@ A playful embodiment of interspecies attention.
 
 <img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
+What if Bauhaus pioneers were **chrononauts**, arriving from a future defined by simple geometry, clarity, and functional purity?  
+Stepping into 1919 Weimar, they carried grids, sans‑serif type, primary colors—tools meant to reorder chaos.
+
+They taught us that *form follows function*—  
+Walter Gropius, Josef Albers, Marcel Breuer, Paul Klee, Wassily Kandinsky.  
+Names we know: white, male, heralded.  
+Their shapes seemed timeless.  
+Their authority seemed inevitable.  
+But they were fewer in gender and racial identity—others’ voices were muted. [oai_citation:turn0search12] [oai_citation:turn0search16]
+
+Meanwhile, women made up nearly half the students—often relegated to weaving, textiles, ceramics.  
+Yet it was Gunta Stölzl, Anni Albers, Marianne Brandt—artists of extraordinary talent—who ran the weaving workshop, led innovation, and saved the school financially. [oai_citation:turn0search1] [oai_citation:turn0search17] [oai_citation:turn0search28]  
+They were time-travelers too: less celebrated, more constrained, yet weaving the real grid beneath the Bauhaus myth.
+
+Imagine the fitters as futuristic geometers—surveying the world with tools of precision, proportion, color, and material.  
+They sketched universes reduced to square, circle, triangle.  
+They coded furniture for mass production.  
+They rehearsed vision for a cleaner tomorrow.
+
+But contemporary curators remind us:  
+the Bauhaus myth is shaped by omission.  
+Women were erased.  
+The majority of its masters were white and male.  
+A distorted canon elevated narrow voices while sidelining equally radical creators. [oai_citation:turn0search8] [oai_citation:turn0search5]
+
+If they travelled from the future, they brought maps drawn by privilege.  
+Gridlines drawn by exclusion.  
+Yet in those weaver’s workshops, in the margins of ceramics and textile, new futures sprouted.
+
+I imagine them as emissaries:  
+Klee tuning line and color; Moholy-Nagy bending light; Schlemmer staging bodies in shape;  
+Albers weaving geometry into cloth; Brandt forging metal forms—not seen, but felt by daily life. [oai_citation:turn0search31] [oai_citation:turn0search27] [oai_citation:turn0search28]
+
+They offered us simplicity—less ornament, more functionality.  
+“Less is more,” whispered the future.  
+But they meant: simplicity must be shared—must be inclusive.
+
+Standing now in their afterlife, we inherit Bauhaus frames: fonts, furniture, facades.  
+But to honor that legacy, we must fill the gaps.  
+We must trace the missing names: Stölzl, Albers, Berger, Brandt—artists of color, women, unlisted disruptors. [oai_citation:turn0search17] [oai_citation:turn0search6]
+
+So when you sit in your Wassily chair, or sketch in a grid, or tap a Bauhaus font:  
+remember—they were not just designers—they were time‑travelers with imperfect maps.  
+We must redraw those maps with all the voices, all the colors, all the geometries.
+
+Purity is not static.  
+Simplicity is not sanitized.  
+Time travel was real—and the future they sketched included many more people than we remember.  
+
+
 - **Model:** Stable Diffusion XL  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)  
 - [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
@@ -1003,26 +1053,6 @@ A playful embodiment of interspecies attention.
 - [LIVE APP](https://bauhaustimetravelers-overlay.vercel.app/)
 
 [VIDEO CAPTURE OF APP](https://www.youtube.com/watch?v=jUfdvWQZAqE&t=2s)
-
-### Bauhaus Time Traveller STRIPPERS (Crossfading)
-
-<img src="https://github.com/user-attachments/assets/3ccebb00-f33f-4176-8de5-8a555065556f" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
-
-- **Model:** Stable Diffusion XL  
-- [GitHub Repository](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers-crossfading)  
-- [LIVE APP](https://bauhaus-time-traveler-strippers-mondrian.vercel.app/)
-
-### Bauhaus Time Traveller STRIPPERS
-
-- **Model:** Stable Diffusion XL  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)  
-- [LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
-
-
-### Pangea People | What if Europe never existed?
-
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/ogininarios)  
-- [LIVE APP](https://originarios.vercel.app/)
 
 
 ### Instrumental Proximities
@@ -1086,11 +1116,6 @@ I breathe again.
 - [LIVE APP](https://marlonbarrios.github.io/impossiblesimplicity/)
 
 
-### Śūnyatā
-
-- [Enso](https://marlonbarrios.github.io/black_ink_enso/)
-
-- [LIVE APP](https://noiseinlatentspace.vercel.app/)
 
 **Digretions in Latent Space (The Music Album** is a collection of 14 tracks created to support the performance lecture Born in Latent Space
 
@@ -1122,6 +1147,32 @@ I breathe again.
 - **Technology:** Perlin Noise  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/perlin-noise-latent-space)  
 - [LIVE APP](https://hyperelement.vercel.app/)
+
+### Bauhaus Time Traveller STRIPPERS (Crossfading)
+
+<img src="https://github.com/user-attachments/assets/3ccebb00-f33f-4176-8de5-8a555065556f" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
+
+- **Model:** Stable Diffusion XL  
+- [GitHub Repository](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers-crossfading)  
+- [LIVE APP](https://bauhaus-time-traveler-strippers-mondrian.vercel.app/)
+
+### Bauhaus Time Traveller STRIPPERS
+
+- **Model:** Stable Diffusion XL  
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler-strippers)  
+- [LIVE APP](https://bauhaus-timetraveler-stripper.vercel.app/)
+
+
+### Pangea People | What if Europe never existed?
+
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/ogininarios)  
+- [LIVE APP](https://originarios.vercel.app/)
+
+### Śūnyatā
+
+- [Enso](https://marlonbarrios.github.io/black_ink_enso/)
+
+- [LIVE APP](https://noiseinlatentspace.vercel.app/)
 
 ________________________________________
 
