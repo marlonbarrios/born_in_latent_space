@@ -728,23 +728,18 @@ It’s a party inside uncertainty.
 
 ### Patient X: Can you help please?
 
-
 - [LIVE APP](https://patientx-83md.vercel.app/)
 
-  ## 🤝 *You Are the Assistant*
+## 🤝 *You Are the Assistant*
 
 This chat flips the roles: instead of asking for help, *you* offer it.  
 The AI speaks. You listen.
-
----
 
 ### ♻️ Why This Matters
 
 - Empathic chatbot design improves emotional engagement and trust. ([turn0search12])  
 - Users reveal more when chat feels private, nonjudgmental. ([turn0search35])  
 - Personalized, emotionally aware bots can boost mental well-being. ([turn0academia30], [turn0academia31])
-
----
 
 ### 🧱 How It Works
 
@@ -755,15 +750,11 @@ The AI speaks. You listen.
 | **AI**              | Invites deeper reflection       |
 | **You**             | Hold space—no solutions needed |
 
----
-
 ### 🧰 Features
 
 - Empathy-first architecture: AI models emotion, but **you interpret it**. ([turn0search11])  
 - Safeguards in place: If distress arises, bot prompts human support.  
 - Transparent scope: Not therapy. A *bridge* when human connection is unavailable. ([turn0news22], [turn0search15])
-
----
 
 ### 🌱 Use Scenarios
 
@@ -774,31 +765,92 @@ Or:
 
 - AI reveals anxiety:  
   *“I feel overwhelmed.”*  
-- You reflect: *“Sounds heavy. Would it help to talk more?”*
-
----
+- You reflect: *“Sounds heavy. Would it help to talk more?”
 
 ### ⚠️ Reminder
 
 - This is *not* crisis support.  
 - If needed, it escalates to human care.
-
----
-
+- 
 ### 🧩 Why This Model
 
 - Shifts from fixing problems to sustaining connection.  
 - Recodes emotional labor as relational, not transactional.  
 - Encourages presence instead of performance.
 
----
-
-Would you like this formatted for mobile onboarding, UI microcopy, or brand style context?
-
-
-### In Pursuit of Stolen Ghosts (DRAWING TOOL VERSION)
+### In Pursuit of Stolen Ghosts (
 
 <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
+
+I remember Berlin in February 2024.  
+Cold air, code humming—an application born  
+from the breath of absence and invention.  
+This is *Duet in Latent Space*—  
+a conjuring of lost whispers within a live browser.
+
+Latent space: a terrain unseen,  
+where spectral images stir—  
+probability as palette,  
+data as medium,  
+and echo as model.
+
+I sketch lines in Excalidraw,  
+prompt the algorithm,  
+and watch ghosts appear—  
+not ancestors,  
+because ancestors were killed,  
+not merely forgotten.  
+These ghosts are ruptures,  
+fractures of absence given form.
+
+Each apparition flickers  
+like a wound revisited—  
+impossible yet intimate—  
+drawing presence from loss,  
+shape from rupture.
+
+Sound breathes over visuals—  
+a MusicGen soundtrack pulsing with silence.  
+Together, they become a live séance,  
+not to recover,  
+but to *reimagine*.
+
+These ghosts are not archives, or lineage.  
+They are **emergent imaginings**—  
+because memory itself was erased.  
+I do not call them ancestors.  
+They were killed.  
+So I call them ghosts.
+
+I ask: *Show me what absence might look like.*  
+*Give me silhouettes of obliterated voices.*  
+
+And the AI responds—  
+slower than grief, faster than silence:  
+a spectral form coded from prompt and longing.
+
+This isn’t software.  
+It is a **portal**.  
+A ghost‑making machine,  
+faster than grief can hold.
+
+It gives absence shape.  
+It gives possibility form.  
+It invites you to conjure.  
+To draw in latency.  
+To listen in the glow of silence.
+
+Launch the live app.  
+Draw. Speak. Listen.  
+Watch ghosts emerge.  
+
+Not from trauma alone—but from *possibility*.
+
+Because ancestors were killed.  
+This is not recovery.  
+It is resurrection.  
+You are invited to conjure the ghosts  
+that haunt your invisible spaces.
 
 - **Model:** Stable Diffusion XL  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)  
