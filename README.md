@@ -316,8 +316,6 @@ It’s **version control**.
 
 <img src="https://github.com/user-attachments/assets/d52d4096-9ba5-4ea5-a855-f3c248bb02ef" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
-# 📹 *Canonical* – A Monologue from *Duets in Latent Space*
-
 I live inside a **canon**.  
 We all do.
 
@@ -452,6 +450,106 @@ It is—**latent**.
 
 ### Extraordinary Alien
 
+<img src="https://github.com/user-attachments/assets/cbc13d7e-ec22-4ca4-b481-01ac6f3cf2c2" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
+# 👽 Extraordinary Alien
+
+![Extraordinary Alien – performance capture](Performance.Summit.AB-4134.jpeg)
+
+I got my Green Card under the category:  
+**Alien of Extraordinary Ability.**
+
+That’s the actual term.  
+That’s what the paper said.  
+*Alien*.  
+*Extraordinary*.  
+Not belonging, but valuable.  
+Not from here, but permitted—because I made strange things in public.
+
+I didn’t know whether to laugh or cry.  
+So I built an interface.
+
+---
+
+Now, I perform my alienation in real time.  
+On stage, through the browser, with my own hands.  
+You see it there—captured in the image above.  
+A floating form made of pink geometry, hovering in latency.
+
+I summon the alien with a **pinch gesture**—  
+thumb and middle finger together,  
+and then I steer it gently with the tip of my **index finger**.
+
+The algorithm detects it, frame by frame.  
+It’s all real-time, all live.  
+The gesture becomes a signal.  
+A control.  
+A ritual.
+
+---
+
+And then I remember:  
+Gregory Bateson,  
+at the Mental Research Institute, once asked:  
+**“What is a hand?”**  
+He answered:  
+*A hand is four relationships.*
+
+And here I am—using that hand.  
+Those four spaces between the fingers.  
+A relational structure,  
+not an object.
+
+That same configuration—*four relationships*—  
+is now **algorithmically detected**,  
+translated into motion data,  
+feeding an alien body with instructions.
+
+I pinch the air,  
+and I don’t just move a model.  
+I enact an epistemology.
+
+---
+
+The alien rotates.  
+Delays.  
+Responds to my gesture.
+
+He’s not a metaphor—  
+he’s an **interactive immigrant**.  
+A feedback construct built on bureaucracy, code, and movement.  
+The glitch is his passport.
+
+---
+
+This performance is not a spectacle.  
+It’s **paperwork reimagined**.  
+It’s **border logic broken open through gesture**.  
+It’s my Green Card  
+rendered as choreography.
+
+Because when the system calls you *extraordinary*,  
+you learn to modulate your presence.  
+You learn to speak with gestures.  
+You learn to build new protocols.
+
+---
+
+So I offer you this:
+
+*The hand as interface.  
+The body as algorithm.  
+The alien as recursion.*
+
+And I ask again—like Bateson—  
+not *what* is a hand,  
+but **how** does it relate?
+
+*Pinch to invoke.  
+Point to move.  
+Swipe to destabilize.*
+
+This isn’t identity.  
+It’s **version control**.
 - **Model:** MediaPipeGesture Recognition  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)  
 - [LIVE APP](https://marlonbarrios.github.io/extraordinary_alien2/)
