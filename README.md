@@ -905,7 +905,6 @@ that haunt your invisible spaces.
 <img src="https://github.com/user-attachments/assets/bd613b3e-97e5-4016-8a6d-23a1845d07f5" alt="Gameplay Screenshot" width="500">
 
 TongueZap is an interactive webcam game where you become a chameleon trying to catch flies with your tongue. Using face detection technology, the game tracks your facial movements and lets you catch flies by opening your mouth.
-## 🦎 TongueZap — A Gentle Monologue Across Species & Code
 
 When you activate TongueZap, your webcam flickers alive,  
 and you, for a moment, inhabit a chameleon’s tongue.
@@ -918,8 +917,6 @@ A neon tongue zaps out in pixels—
 swift as the real chameleon’s tongue, which strikes at nearly 6 m/s. [oai_citation:turn0search5]  
 It snaps up digital flies, one after another, and your score increments.
 
----
-
 This game is gentle yet vibrant.  
 Your body, a living sensor.  
 Your tongue, an interface.  
@@ -930,8 +927,6 @@ Here’s the rule: when your tongue is out, you cannot be unhappy.
 Sadness dissolves in that pixel tongue reaching for prey—  
 play becomes compassion turned performance.
 
----
-
 TongueZap is more than a game;  
 it’s a gesture of inter-species empathy.  
 You, chameleon, LLM, algorithm, and pixel—  
@@ -940,8 +935,6 @@ all twitching at the same threshold of attention.
 Generative models, like chameleons, react to stimulus—they detect, adjust, strike.  
 With APIs and prompts, we shape behavior.  
 In TongueZap, our bodies become prompts, the algorithm our chameleon guide.
-
----
 
 You open.  
 You catch.  
@@ -1035,6 +1028,7 @@ A playful embodiment of interspecies attention.
 ### Instrumental Proximities
 
 <img src="https://github.com/user-attachments/assets/55bc934b-4efa-4275-94fb-73101a8dfeb0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
+
 I stand before the camera.  
 My face recognized.  
 My mouth a gateway.
