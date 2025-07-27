@@ -1112,6 +1112,63 @@ I breathe again.
 <img src="https://github.com/user-attachments/assets/fbae09ec-43b3-47ab-a637-a5d35b7913bc" alt="Screenshot 2025-03-12 at 11 04 56 PM" width="500">
 <img src="https://github.com/user-attachments/assets/68f602a9-bca5-49dc-ae08-1af44da6cfc2" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
+Impossible to simplify—  
+as a digital artist, I live in conceptuality.  
+I hold complexity in my body, in the karaoke mic, in the interfaces I build.
+
+I sing *“On My Own”* in karaoke with an LLM echoing me.  
+MediaPipe tracks my gestures; my body becomes prompt.  
+I sing into the machine, and the machine sings back—with irony, with sincerity, with longing.
+
+Here is the queer longing:  
+a desire for simplicity, not minimalism, but clarity and affect.  
+A longing for modernism’s clean line—  
+yet haunted by its white-male futurity, where Bauhaus grids promised purity but excluded queerness.
+
+But I reclaim it—acing the archive with queer vibration.  
+Karaoke and LLMs become my tools:  
+I sing *“On My Own”*—romantic, solitary, but doubled across algorithmic voice.  
+Our duet lives inside my head, shimmering in looped longing.
+
+I open my mouth. Visual density blooms. Sound density appears.  
+Each vowel is a vector.  
+Each gesture: a time-travel glitch in modernist code.
+
+Muñoz whispers: queerness is “not yet here”—an utopian insistence against normative time.  
+My karaoke is that insistence: past song, future voice, not-together but **on our own, together**. [oai_citation:turn0search33]
+
+Here form becomes affect.  
+Form—modern simplicity—and longing—queer desire—coexist.  
+I voice melody. I voice rupture.  
+My presence is both here and not, in the audience, in the LLM’s response, in code.
+
+This is metamodern performance: oscillating between irony and sincerity,  
+between wanting simplicity and honoring complexity,  
+between loneliness and communal resonance. [oai_citation:turn0search34]
+
+Karaoke and LLMs, my tracked body and ambient visuals—  
+they become tools for aesthetic futurity.  
+They lift the queer longing out of mainstream romantic script and embed it into code form, into structure, into presence.
+
+I sing.  
+The LLM echoes.  
+We embody modernist clarity and queer futurity.  
+Not minimal erasure—but generative possibility.
+
+This is not performance.  
+It is **conceptual karaoke ritual**.  
+It is the search for simplicity that honors queer complexity.  
+It is the pulse of longing moved through form.
+
+We sing *On My Own*—  
+alone, but refracted through algorithm, gesture, audience, lyric.  
+We are near alone,  
+yet linked in resonance.  
+In minimal form—emotion survives.
+
+Thank you for singing with me.  
+We are contained in simplicity, expansively queer.
+
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossiblesimplicity)  
 - [LIVE APP](https://marlonbarrios.github.io/impossiblesimplicity/)
 
