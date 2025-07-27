@@ -726,14 +726,13 @@ It’s a party inside uncertainty.
 
 [VIDEO of Conversations with Possible Minds – Duets in Latent Space @ Live Arts Festival 2024 Cape Town, SA](https://youtu.be/WNAUKmtXF6g?si=P_j_7FI9gcGLN3R4)
 
-### Patient X: Can you help please?
+### 🤝 *You Are the Assistant*
 
 - [LIVE APP](https://patientx-83md.vercel.app/)
 
-## 🤝 *You Are the Assistant*
 
 This chat flips the roles: instead of asking for help, *you* offer it.  
-The AI speaks. You listen.
+The AI speaks. You listen. You open up yopur heart
 
 ### ♻️ Why This Matters
 
