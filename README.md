@@ -316,10 +316,119 @@ It’s **version control**.
 
 <img src="https://github.com/user-attachments/assets/d52d4096-9ba5-4ea5-a855-f3c248bb02ef" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
-<img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
+# 📹 *Canonical* – A Monologue from *Duets in Latent Space*
+
+I live inside a **canon**.  
+We all do.
+
+Not just the musical kind, though that too—  
+Pachelbel’s **Canon in D** playing on loop,  
+sweet, orderly, polite.  
+A melody that returns, and returns, and returns again  
+like your grandmother’s blessing,  
+like empire disguised as harmony.
+
+But *canon* also means *law*,  
+means *rule*,  
+means *the sanctioned version of the past*.  
+The Eurocentric canon—what gets remembered,  
+what gets repeated,  
+what gets taught in schools,  
+printed in books,  
+coded into datasets.  
+A lineage of repetition dressed as truth.
+
+And still, here I am—repeating.  
+Not to obey,  
+but to intervene.
+
+---
+
+This piece I perform with a **video delay system**—  
+ten rows, twelve columns, 120 fragments of time.  
+A memory grid.  
+Each cell a delayed echo of myself.  
+The newest me on the bottom right,  
+the oldest me on the top left.
+
+A feedback loop.  
+A canon of light.  
+A self recursively arriving into the frame.  
+
+A machine that remembers—but only momentarily.  
+It stores my image like a temporary tradition  
+and then overwrites it.
+
+---
+
+The structure is canonical:  
+each frame follows the one before it.  
+But my body doesn’t follow the rules.  
+I twitch, glitch, stutter, spiral.  
+I dance in the lag.
+
+I use the delay not to stay on beat  
+but to drift.  
+To make the familiar strange.  
+To queer the loop.
+
+This isn’t nostalgia—  
+this is **insurgent memory**.  
+This is **feedback as resistance**.  
+This is canon undone from within.
+
+---
+
+Because memory isn’t just what we recall—  
+it’s what we *repeat*.  
+Every repetition carries a little mutation.  
+Every echo misremembers.  
+Every canon cracks.
+
+And in that crack,  
+I slip through.
+
+I choreograph myself inside the grid—  
+each delayed image a version,  
+a draft,  
+a ghost.  
+A decentralized archive  
+of gestures that resist mastery.
+
+---
+
+My performance is not a cover.  
+It’s not an homage.  
+It’s a **fork**.
+
+I take Pachelbel’s canon  
+and run it through a horizontal flip.  
+Through Maracaibo.  
+Through Berlin.  
+Through queer latency and brown latency and diasporic frames-per-second.
+
+My canon is **not in D**.  
+It’s in divergence.  
+It’s in delay.
+
+---
+
+I remember a teacher once said:  
+*“Tradition is just peer pressure from the dead.”*  
+
+But I say:  
+*“Tradition is a remixable protocol.”*  
+
+This performance is an **interface**.  
+This canon is not closed.  
+It is **recursive**.  
+It is **reframed**.  
+It is—**latent**.
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
 - [LIVE APP](https://marlonbarrios.github.io/canonical01/)
+
+<img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 ### We are all looking for Mr Parker
 
