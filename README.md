@@ -610,6 +610,57 @@ and animates a still image of me—**Alan Turing**—found on the web.*
 
 ### Entropic Haiku
 
+<img src="https://github.com/user-attachments/assets/440a1d7f-6c54-4e0c-a808-cb710424e660" alt="Gameplay Screenshot" width="500">
+
+I built an app called *Entropic Haiku*, a generative poem browser that births haikus the moment you press space.  
+Three haikus appear: one in English, two in symbol‑codes—emoji, Morse, ASCII, Braille, JavaScript.  
+Each haiku names entropy, capitalism, war—the collapse of meaning in seventeen syllables across languages. [oai_citation:turn0search0]
+
+Then the letters start to fall. They tumble, bounce, drift.  
+Each character becomes a little ghost: weightless, kinetic, alive.  
+Move your mouse and chaos deepens.  
+Press ‘P’ and music surfaces—a soundtrack that dissolves alongside text.  
+Sound, text, symbol: disintegrating together in real time. [oai_citation:turn0search0]
+
+The poem is about entropy.  
+It is entropy.  
+Capitalism consumes. War fractures. Language betrays itself.  
+A haiku fractures as it speaks.  
+Each version in code repeats—and falls apart.
+
+Visuals crack open. Faces and lines drawn? They dissolve—pixel ash drifting upward.  
+Text becomes presence and absence.  
+Music pulses, turns brittle, fades.
+
+This isn’t static art.  
+It is ephemeral poetry in motion.  
+Destruction made generative.  
+Collapse rendered as creation.
+
+Every time the spacebar is pressed, the world resets.  
+A new cycle of decay and possibility begins.  
+Each collapse is singular.  
+Each performance unique.
+
+What survives format? What whispers remain when form falls away?  
+These ghosts persist—not as memory or lineage, but as signals in code.  
+They speak after they vanish.
+
+Clone the GitHub. Add your **Fal.ai API key**. Run the app.  
+Sketch. Prompt. Mouse. Press ‘P’.  
+Watch language dissolve.  
+Watch poetry die and rise in shards.
+
+This is more than software.  
+It is a **ruin-making machine**.  
+Loss as possibility.  
+Entropy as portal.
+
+*Entropic Haiku* asks:  
+What remains when collapse becomes creation?  
+What voices emerge from ruin?  
+Let this poem crumble—and in its dust: find possibility.
+
 - **Model:** GPT-4  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)  
 - [LIVE APP](https://entropic-haiku.vercel.app/)
@@ -851,7 +902,7 @@ It is resurrection.
 You are invited to conjure the ghosts  
 that haunt your invisible spaces.
 
-- **Model:** Stable Diffusion XL  
+- **Model:** Stable Diffusion XL
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)  
 - [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
 
