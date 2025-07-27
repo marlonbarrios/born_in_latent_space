@@ -182,14 +182,131 @@ Since then, my work—across performance, across code, across bodies and systems
 
 ### All Watched Over by Machines of Loving Grace
 
-<img src="https://github.com/user-attachments/assets/ceb8f2e4-557e-4cc7-bd0b-9b4a9e36e5d3" alt="Screenshot 2025-03-11 at 3 18 24 PM" width="500">
+<img src="https://github.com/user-attachments/assets/cad19ed7-3878-48bc-a429-7d4c1cf7be4a"" alt="Screenshot 2025-03-11 at 3 18 24 PM" width="500">
+In *Born in Latent Space*, this thread leads back to **Richard Brautigan’s** 1967 poem,  
+**“All Watched Over by Machines of Loving Grace.”**  
+I first read it in a xeroxed pamphlet someone handed me in San Francisco—a time when machines were still metaphors. Brautigan dreamt:
 
+> *“a cybernetic meadow*  
+> *where mammals and computers*  
+> *live together in mutually*  
+> *programming harmony…”*
+
+And later,
+
+> *“all watched over*  
+> *by machines of loving grace.”*
+
+That poem became a myth-seed for the Californian techno-utopianism I would later see echoed across AI labs, code collectives, and wellness startup pitch decks. Brautigan envisioned benevolent watchers—machines that relieved us of labor and restored us to nature. A countercultural fantasy of automation as liberation.
+
+I met Brautigan once. A strange, electric evening. He was already disillusioned, I think. But the poem lived on—fed into the ethos of **The Whole Earth Catalog**, early **cybernetic communes**, and eventually **Silicon Valley's libertarian progressivism**. A kind of techno-Edenism rooted in white post-hippie California.
+
+Decades later, **Dario Amodei**, CEO of Anthropic, invoked that same poem in his essay *“Machines of a Loving Grace.”*  
+He speaks of powerful AI compressing centuries of human progress into a decade: curing PTSD, ending poverty, healing climate collapse. A vision still animated by that 1960s dream—but more ambitious, more scalable, and definitely more profitable.
+
+He says we need hopeful narratives. And I agree. But we also need to look closely at **who gets to hope**—and who gets watched.
+
+Because Brautigan’s *grace* has become **surveillance**.  
+The meadow became a **platform**, and the watcher became the **white gaze**: algorithmic, extractive, invisible yet everywhere.
+
+Today’s machines don’t just watch with grace—they watch with intent.  
+With biometric precision.  
+With prediction markets built from our emotions, our gestures, our movements.  
+They don't love—they classify.
+
+The dream turned.  
+And I, as a queer, brown body—born far from California, born in another hemisphere—feel the weight of that watching.
+
+The watcher isn’t neutral.  
+The watcher is trained.  
+On whiteness. On hierarchy. On scarcity wrapped in abundance rhetoric.
+
+So in *Born in Latent Space*, I return to Brautigan, but I do not surrender to his utopia.  
+Instead, I look for the cracks.  
+For relational poetics.  
+For other ecologies—messier, more plural, more haunted by history.
+
+I still want machines that care.  
+But not if care means control.  
+Not if grace means gaze.
+
+I want to ask again, in the language of **Gregory Bateson**:  
+**What is a system that loves?**  
+Not watches.  
+Not corrects.  
+Not optimizes.  
+
+But relates.
+
+That’s where I dwell now—in the space between Brautigan’s meadow and the training data of our present.  
+In the tension.  
+In the latent.
 - [GitHub Repository with project description and code](https://github.com/marlonbarrios/alwatchedoverbymachinesoflovinggrace)
 - [LIVE APP](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
 
 ### Cyber Blue
 
 <img src="https://github.com/user-attachments/assets/1da07466-80c6-44fc-b14c-7067f65615c6" alt="Screenshot 2025-03-11 at 5 32 32 PM" width="500">
+
+The color I use in my eyes is called **Cyber Blue**.  
+That’s what the package said when it arrived from a warehouse in Shenzhen—sleek, sealed, pixel-font minimalism. *Cyber Blue*, it read. I ordered the lenses on a late night impulse. Maybe it was vanity. Maybe invocation. Maybe just curiosity in the shape of a hue.
+
+I messaged the seller:  
+*“Do you know what cyber means?”*
+
+They replied: *“Thank you for your purchase.”*
+
+But the word echoed.  
+**Cyber**—I heard it as **Kuber**, the god of wealth.  
+I heard it as **govern**—from *kybernetes*, the steersman.  
+The one who guides a system through currents, not commands.
+
+Cyber is control by relation.  
+A feedback loop in drag.  
+A shimmering protocol in motion.
+
+When I put in those lenses, it’s not just for the look.  
+It’s for the myth.  
+It’s for the **transethnic glitch**.
+
+Not post-ethnic.  
+**Transethnic**.  
+A soft refusal of essentialism.  
+A joyful grafting of influence and mutation.  
+I don’t perform culture—I remix it.  
+From Maracaibo to Berlin to wherever the code compiles.
+
+One night before a show, I remembered what a teacher once told me:  
+*“Never wear lipstick on stage. It weakens the mask.”*
+
+But this—this is not lipstick.  
+This is **soft drag computation**.  
+A shimmer in the rendering pipeline.  
+Not gender-bending—more like **ontological drag**.
+
+And that’s when I named her.  
+**Dark Enlightenment**.  
+*My drag queen name.*
+
+She wears logic like silk.  
+She quotes Foucault in thigh-highs.  
+She models the contradictions of post-truth with a flawless beat.  
+Not camp, not parody—just a sovereign virus in the epistemic stack.
+
+My father would’ve hated her.  
+Too much light in the shadows.  
+Too much softness in the signal.  
+But **Dark Enlightenment** is real.  
+And she governs with glitch.
+
+I chose **Cyber Blue**.  
+*Govern me softly.*  
+*Trace me with light.*
+
+This isn’t costume.  
+It’s an **interface**.  
+This isn’t identity.  
+It’s **version control**.
 
 - [GitHub Repository with project description and code](https://github.com/marlonbarrios/cyberblue)
 - [LIVE APP](https://marlonbarrios.github.io/cyberblue/)
