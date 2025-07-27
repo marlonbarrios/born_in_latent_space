@@ -19,8 +19,6 @@ In machine learning, **latent space** refers to a hidden high-dimensional zone w
 
 We are all, in a sense, **born in latent space**: not as fully formed beings, but as unstable biographies, recursive gestures, co-emerging experiences. Latent space is where embodiment meets abstraction, where memory is encoded in movement, and where knowledge is not stored—but performed.
 
----
-
 ## Form and Modality
 
 *Born in Latent Space* is structured as a sequence of **modular vignettes** and **data-driven rituals**. Each begins with a prompt—an image, a question, a line of code—and unfolds into a live feedback loop of generated outputs and embodied response. The performer navigates a continuously shifting audiovisual environment shaped by:
@@ -31,8 +29,6 @@ We are all, in a sense, **born in latent space**: not as fully formed beings, bu
 - Real-time browser-based interaction  
 
 This structure allows the piece to flex across space and time. The lecture-performance can be **short (25 minutes)** or **extended across hours**, **modular**, **installational**, or **distributed spatially**. It can also be activated as a **participatory workshop**, inviting participants into a **knowledge lab** where generative AI, embodiment, and improvisation are explored together.
-
----
 
 ## Expanded Dramaturgies
 
@@ -46,8 +42,6 @@ This structure allows the piece to flex across space and time. The lecture-perfo
 
 These modalities do not exist in isolation—they are woven into the fabric of the performance as tools for accessing **new epistemic states**. The result is not a demonstration of AI, but a **rehearsal of cognition**, a **ritual of uncertainty**, and a **choreography of knowledge in motion**.
 
----
-
 ## Thematic Territories
 
 The project traverses layered, recursive territories of inquiry, including:
@@ -59,8 +53,6 @@ The project traverses layered, recursive territories of inquiry, including:
 - **Latent ecologies of presence and play**
 
 By manipulating prompts and engaging with generative responses, the performer interrogates dominant narratives embedded in AI systems while opening portals for alternate ways of sensing, knowing, and being.
-
----
 
 ## Technologies and Systems
 
@@ -74,20 +66,17 @@ The project uses a custom ecosystem of generative tools and open-source platform
 
 These systems are not used for their novelty, but for their **glitches, failures, and deviations**—as sites of critical friction and poetic reimagining.
 
----
-
 ## Presentation Formats
 
 *Born in Latent Space* is flexible by design and exists in multiple forms:
 
-- A **solo lecture-performance** (25–45 minutes)  
+- A **solo lecture-performance** (25–55 minutes)  
 - A **durational or multi-room installation** with generative components  
 - A **creative workshop/lab** exploring AI, performance, and embodied computation  
 - A **hybrid format** combining performance, installation, and participatory sessions  
 
 In every form, it resists closure. It remains open, recursive, and in process. As such, it is not just a performance, but a **living epistemic infrastructure**—a place for rehearsal, reflection, and speculative co-creation.
 
----
 
 ## Long-Term Vision: 2024–2029
 
@@ -99,22 +88,16 @@ I create **conditions for inquiry**, **contexts for interaction**, and **perform
 *Born in Latent Space* is not a thing.  
 It is a **terrain we pass through**—together.
 
----
-
-**Duration:** 25–45 minutes (flexible and extensible)  
-**Language:** English (with code-switching into Spanish or code as needed)  
-**Artist:** Marlon Barrios Solano  
 
 
 ## Upcoming 
-
-
-- **Performance Lecture at Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
 
 - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
 
 ## It has been presented at
 
+
+- **Performance Lecture at Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
 - **Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 22 2025** – [workshop](https://lakestudiosberlin.com/event/submerge-festival-2025/)  
 - **OOTFest25 (UN)SEEN** @ Riverside Studios & Open Online Theatre, London, UK – **June 5 – 8 2025** 
 - **CAME Innovation Summit 2025** @ , University of Florida, Gainesville, Florida, USA – **April 11th, 2025**
