@@ -1035,6 +1035,47 @@ A playful embodiment of interspecies attention.
 ### Instrumental Proximities
 
 <img src="https://github.com/user-attachments/assets/55bc934b-4efa-4275-94fb-73101a8dfeb0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
+I stand before the camera.  
+My face recognized.  
+My mouth a gateway.
+
+I breathe in.  
+I open wide.
+
+A shimmering web appears—  
+lines pulse between mouth corners, cheeks, forehead.  
+Particles shimmer.  
+Visual density swells where flesh parts.
+
+From my mouth opening, the **bass synth hums deeper**—  
+volume swells, timbre thickens, resonance pulses in time.  
+Every millimeter of gap shapes sound:  
+small partings whisper soft tones, wider openings grunt low bass.
+
+The soft glow at lip corners brightens—  
+particles stream outward as I breathe.  
+**Visual and sonic resonance become one gesture.**
+
+As I open and close, the visuals breathe.  
+Lines fade, pulses slow, sound softens.  
+As I open again, intensity returns.
+
+Hands hover near face—connections flicker.  
+Proximity sparks wave patterns, particles spin  
+where fingers nearly touch cheeks, eyes, lips.
+
+### This piece is presence embodied:
+
+A **duet of gesture and sound**, visibility and sensation.  
+My mouth becomes instrument.  
+My breath becomes rhythm.
+
+I move.  
+**Sound breathes.**  
+**Visuals bloom.**
+
+I breathe again.  
+**The system listens.**
 
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/instrumentalproximities)  
 - [LIVE APP](https://github.com/marlonbarrios/instrumentalproximities)
