@@ -159,7 +159,7 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 
 ### A Hand is Four Relationships
 
-<img width="1523" height="1023" alt="Screenshot 2025-07-27 at 3 11 44 PM" src="https://github.com/user-attachments/assets/f45515bb-959e-4a72-bf6c-3580d1e833a0" />
+<img src="https://github.com/user-attachments/assets/f45515bb-959e-4a72-bf6c-3580d1e833a0" alt="Screenshot 2025-03-09 at 4 31 52 PM" width="500">
 
 This part of *Born in Latent Space* traces back to a moment—an image, really—that’s stayed with me for decades. Gregory Bateson. The Mental Research Institute in Palo Alto. One of his students told me this story. Bateson walked in and asked the group: *“What is a hand?”*
 
