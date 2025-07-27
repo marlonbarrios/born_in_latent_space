@@ -312,7 +312,9 @@ It’s **version control**.
 - [GitHub Repository with project description and code](https://github.com/marlonbarrios/cyberblue)
 - [LIVE APP](https://marlonbarrios.github.io/cyberblue/)
 
-### Canonical (memory warmup/accumulation in Space and Time)
+### Canonical 
+
+<img src="https://github.com/user-attachments/assets/d52d4096-9ba5-4ea5-a855-f3c248bb02ef" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 <img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
