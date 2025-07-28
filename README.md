@@ -645,6 +645,10 @@ Let this poem crumble—and in its dust: find possibility.
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)  
 - [LIVE APP](https://entropic-haiku.vercel.app/)
 
+### We Came to Rule
+
+[Play Video}(https://youtube.com/shorts/1XnJqgZwOrw?si=8NS8DDIoCp7sH4rU)
+
 ### Conversations with a Possible Mind
 
 <img src="https://github.com/user-attachments/assets/c868a1b9-e49b-478f-984a-3e30ec946adf" alt="Gameplay Screenshot" width="500">
