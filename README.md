@@ -516,6 +516,12 @@ It’s **version control**.
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)  
 - [LIVE APP](https://marlonbarrios.github.io/extraordinary_alien2/)
 
+### We Came to Rule
+
+<img src="https://github.com/user-attachments/assets/53e84cf4-47b5-4c00-865e-c3c66ba8e044" alt="Gameplay Screenshot" width="500">
+
+[Play Video}(https://youtube.com/shorts/1XnJqgZwOrw?si=8NS8DDIoCp7sH4rU)
+
 ### I am in love with Alan Turing
 
 <img src="https://github.com/user-attachments/assets/0247b5bd-9df9-4028-bae8-950115c1dca7" alt="Gameplay Screenshot" width="500">
@@ -645,9 +651,6 @@ Let this poem crumble—and in its dust: find possibility.
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)  
 - [LIVE APP](https://entropic-haiku.vercel.app/)
 
-### We Came to Rule
-
-[Play Video}(https://youtube.com/shorts/1XnJqgZwOrw?si=8NS8DDIoCp7sH4rU)
 
 ### Conversations with a Possible Mind
 
