@@ -520,7 +520,7 @@ It’s **version control**.
 
 <img src="https://github.com/user-attachments/assets/53e84cf4-47b5-4c00-865e-c3c66ba8e044" alt="Gameplay Screenshot" width="500">
 
-[Play Video}(https://youtube.com/shorts/1XnJqgZwOrw?si=8NS8DDIoCp7sH4rU)
+[Play Video](https://youtube.com/shorts/1XnJqgZwOrw?si=8NS8DDIoCp7sH4rU)
 
 ### I am in love with Alan Turing
 
