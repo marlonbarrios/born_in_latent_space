@@ -35,6 +35,10 @@ This structure allows the piece to flex across space and time. The lecture-perfo
 
 ## Expanded Dramaturgies
 
+
+<img src="https://github.com/user-attachments/assets/608bb2e5-b64d-4a6a-8441-4f3f4f9514d9" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+
+
 *Born in Latent Space* draws on a hybrid system of dramaturgies:
 
 - **Games as knowledge engines**  
@@ -46,6 +50,8 @@ This structure allows the piece to flex across space and time. The lecture-perfo
 These modalities do not exist in isolation—they are woven into the fabric of the performance as tools for accessing **new epistemic states**. The result is not a demonstration of AI, but a **rehearsal of cognition**, a **ritual of uncertainty**, and a **choreography of knowledge in motion**.
 
 ## Thematic Territories
+
+<img src="https://github.com/user-attachments/assets/4b0877ca-5d6c-494b-912e-da4b40987b97" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
 
 The project traverses layered, recursive territories of inquiry, including:
 
@@ -59,6 +65,9 @@ By manipulating prompts and engaging with generative responses, the performer in
 
 ## Technologies and Systems
 
+<img src="https://github.com/user-attachments/assets/3620fc37-18a7-4f60-b0ed-d17016e142ae" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+
+
 The project uses a custom ecosystem of generative tools and open-source platforms:
 
 - **p5.js** and **Next.js** for interactive browser-based systems  
@@ -70,6 +79,10 @@ The project uses a custom ecosystem of generative tools and open-source platform
 These systems are not used for their novelty, but for their **glitches, failures, and deviations**—as sites of critical friction and poetic reimagining.
 
 ## Presentation Formats
+
+
+<img src="hhttps://github.com/user-attachments/assets/54ab7994-4240-4bd5-8262-c4388ee830c8" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+
 
 *Born in Latent Space* is flexible by design and exists in multiple forms:
 
