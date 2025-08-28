@@ -112,6 +112,8 @@ It is a **terrain we pass through**—together.
 
 ## Upcoming 
 
+ **Born in Latent Space – Stockholm University of the Arts** @ Department of Dance, Stockholm, Sweden – **September 17 – 19 2025**  – [uniarts.se](https://www.uniarts.se/)
+
 - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
 
 ## It has been presented at
