@@ -112,7 +112,7 @@ It is a **terrain we pass through**—together.
 
 ## Upcoming 
 
- **Born in Latent Space – Stockholm University of the Arts** @ Department of Dance, Stockholm, Sweden – **September 17 – 19 2025**  – [uniarts.se](https://www.uniarts.se/)
+- **Born in Latent Space – Stockholm University of the Arts** @ Department of Dance, Stockholm, Sweden – **September 17 – 19 2025**  – [uniarts.se](https://www.uniarts.se/)
 
 - **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
 
@@ -156,14 +156,19 @@ Bruce Nauman’s video performance *Walking in an Exaggerated Manner Around the 
 
 ### Pseudo Ouroboros: The Genesis of Self Interest in Gradient Descent
 
+- [GitHub Repo](https://github.com/marlonbarrios/pseudo_ouroboros)  
+- [LIVE APP](https://marlonbarrios.github.io/pseudo_ouroboros/)
+
 <img src="https://github.com/user-attachments/assets/72cc6de8-a554-4349-b71e-1b7c63be07a5" alt="Screenshot 2025-03-09 at 4 31 52 PM" width="500">
 
 **Pseudo Ouroboros** is an experimental interactive generative art project that fuses intricate visual patterns with dynamic audio synthesis. Inspired by self-organizing systems and the iterative nature of gradient descent, this project simulates a snake-like organism that continuously evolves—mimicking the ancient symbol of eternal cyclic renewal, the Ouroboros.
 
-- [GitHub Repo](https://github.com/marlonbarrios/pseudo_ouroboros)  
-- [LIVE APP](https://marlonbarrios.github.io/pseudo_ouroboros/)
+
 
 ### A Hand is Four Relationships
+
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/ahandisfourrelationships)  
+- [LIVE APP](https://marlonbarrios.github.io/ahandisfourrelationships/)
 
 <img src="https://github.com/user-attachments/assets/f45515bb-959e-4a72-bf6c-3580d1e833a0" alt="Screenshot 2025-03-09 at 4 31 52 PM" width="500">
 
@@ -183,10 +188,12 @@ Since then, my work—across performance, across code, across bodies and systems
 *Born in latent space. Born in the mesh. Born in that question: What is a hand?*
 
 - **Model:** MediaPipeGesture Recognition  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/ahandisfourrelationships)  
-- [LIVE APP](https://marlonbarrios.github.io/ahandisfourrelationships/)
+
 
 ### All Watched Over by Machines of Loving Grace
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/alwatchedoverbymachinesoflovinggrace)
+- [LIVE APP](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
 
 <img src="https://github.com/user-attachments/assets/dab5a3f4-2b92-491c-92c1-b0219a26bcad" alt="Screenshot 2025-03-09 at 4 31 52 PM" width="500">
 
@@ -247,10 +254,12 @@ But relates.
 That’s where I dwell now—in the space between Brautigan’s meadow and the training data of our present.  
 In the tension.  
 In the latent.
-- [GitHub Repository with project description and code](https://github.com/marlonbarrios/alwatchedoverbymachinesoflovinggrace)
-- [LIVE APP](https://marlonbarrios.github.io/alwatchedoverbymachinesoflovinggrace/)
+
 
 ### Cyber Blue
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/cyberblue)
+- [LIVE APP](https://marlonbarrios.github.io/cyberblue/)
 
 <img src="https://github.com/user-attachments/assets/1da07466-80c6-44fc-b14c-7067f65615c6" alt="Screenshot 2025-03-11 at 5 32 32 PM" width="500">
 
@@ -315,10 +324,13 @@ It’s an **interface**.
 This isn’t identity.  
 It’s **version control**.
 
-- [GitHub Repository with project description and code](https://github.com/marlonbarrios/cyberblue)
-- [LIVE APP](https://marlonbarrios.github.io/cyberblue/)
+
 
 ### Canonical 
+
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
+- [LIVE APP](https://marlonbarrios.github.io/canonical01/)
+
 
 <img src="https://github.com/user-attachments/assets/d52d4096-9ba5-4ea5-a855-f3c248bb02ef" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
@@ -421,12 +433,13 @@ It is **recursive**.
 It is **reframed**.  
 It is—**latent**.
 
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/canonical01?tab=readme-ov-file)
-- [LIVE APP](https://marlonbarrios.github.io/canonical01/)
 
 <img src="https://github.com/user-attachments/assets/f5584ea8-a7df-4440-a683-060a961c7de7" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 ### We are all looking for Mr Parker
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/lookingformrparker?tab=readme-ov-file)
+- [LIVE APP](https://lookingformrparker.vercel.app/)
 
 <img src="https://github.com/user-attachments/assets/5aa440a4-76b0-4cd3-a914-dd678a472f82" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
@@ -442,10 +455,13 @@ It is—**latent**.
 > 
 > Quiet. Waiting. Mr. Parker, from Texas."
 
-- [GitHub Repository with project description and code](https://github.com/marlonbarrios/lookingformrparker?tab=readme-ov-file)
-- [LIVE APP](https://lookingformrparker.vercel.app/)
+
 
 ### Extraordinary Alien
+
+- **Model:** MediaPipeGesture Recognition  
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)  
+- [LIVE APP](https://marlonbarrios.github.io/extraordinary_alien2/)
 
 <img src="https://github.com/user-attachments/assets/cbc13d7e-ec22-4ca4-b481-01ac6f3cf2c2" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
@@ -535,15 +551,17 @@ Swipe to destabilize.*
 This isn’t identity.  
 It’s **version control**.
 
-- **Model:** MediaPipeGesture Recognition  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/extraordinary_alien2)  
-- [LIVE APP](https://marlonbarrios.github.io/extraordinary_alien2/)
 
 ### We Came to Rule
 
-<img src="https://github.com/user-attachments/assets/53e84cf4-47b5-4c00-865e-c3c66ba8e044" alt="Gameplay Screenshot" width="500">
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/alan-ai)
+- [LIVE APP](https://www.alan-ai.app/)
 
 [Play Video](https://youtube.com/shorts/1XnJqgZwOrw?si=8NS8DDIoCp7sH4rU)
+
+
+<img src="https://github.com/user-attachments/assets/53e84cf4-47b5-4c00-865e-c3c66ba8e044" alt="Gameplay Screenshot" width="500">
+
 
 ### I am in love with Alan Turing
 
@@ -614,11 +632,14 @@ and animates a still image of me—**Alan Turing**—found on the web.*
 
 **Clever, isn't it?**
 
-- [GitHub Repository with project description and code](https://github.com/marlonbarrios/alan-ai)
-- [LIVE APP](https://www.alan-ai.app/)
+
 
 ### Entropic Haiku
 
+- **Model:** GPT-4  
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)  
+- [LIVE APP](https://entropic-haiku.vercel.app/)
+  
 <img src="https://github.com/user-attachments/assets/440a1d7f-6c54-4e0c-a808-cb710424e660" alt="Gameplay Screenshot" width="500">
 
 I built an app called *Entropic Haiku*, a generative poem browser that births haikus the moment you press space.  
@@ -670,12 +691,10 @@ What remains when collapse becomes creation?
 What voices emerge from ruin?  
 Let this poem crumble—and in its dust: find possibility.
 
-- **Model:** GPT-4  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/entropic_haiku)  
-- [LIVE APP](https://entropic-haiku.vercel.app/)
-
 
 ### Conversations with a Possible Mind
+
+- [LIVE APP](https://platform.hume.ai/evi/playground?configId=1194886e-4636-4590-bfd4-428542afb354)
 
 <img src="https://github.com/user-attachments/assets/c868a1b9-e49b-478f-984a-3e30ec946adf" alt="Gameplay Screenshot" width="500">
 
@@ -771,7 +790,7 @@ It’s a party inside uncertainty.
 - Sloman’s concept encompasses diverse intelligences including extraterrestrial and artificial ones [oai_citation:1‡turn0search1]  
 - Murray Shanahan extending Sloman’s mapping with consciousness axes and nonhuman intelligences [oai_citation:2‡turn0search5]
 
-- [LIVE APP](https://platform.hume.ai/evi/playground?configId=1194886e-4636-4590-bfd4-428542afb354)
+
 
 [VIDEO of Conversations with Possible Minds – Duets in Latent Space @ Live Arts Festival 2024 Cape Town, SA](https://youtu.be/WNAUKmtXF6g?si=P_j_7FI9gcGLN3R4)
 
@@ -827,6 +846,10 @@ Or:
 - Encourages presence instead of performance.
 
 ### In Pursuit of Stolen Ghosts
+
+- **Model:** Stable Diffusion XL
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)  
+- [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
 
 <img src="https://github.com/user-attachments/assets/541f2361-3e2a-4a0f-aa8e-16248001a0c0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
@@ -900,9 +923,6 @@ It is resurrection.
 You are invited to conjure the ghosts  
 that haunt your invisible spaces.
 
-- **Model:** Stable Diffusion XL
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/in-pursuit-of-stolen-ghosts)  
-- [LIVE APP](https://in-pursuit-of-stolen-ghosts.vercel.app/)
 
 [Video of In Pursuit of Stolen Ghosts – Duets in Latent Space performed @ Live Arts Festival 2024 | Cape Town](https://youtu.be/iZm7Jda1kMk?si=f4MVjueWTCQCs8aJ)  
 [VIDEO CAPTURE OF APP](https://youtu.be/TtKQDcp93tY?si=mkeIH5Fsj6dFdYVW)
@@ -998,6 +1018,10 @@ A playful embodiment of interspecies attention.
 
 ### Bauhaus Time Traveller
 
+- **Model:** Stable Diffusion XL  
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)  
+- [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
+  
 <img src="https://github.com/user-attachments/assets/856fd501-e4b2-45ee-864c-bf7ad6eeff05" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 What if Bauhaus pioneers were **chrononauts**, arriving from a future defined by simple geometry, clarity, and functional purity?  
@@ -1050,26 +1074,26 @@ Simplicity is not sanitized.
 Time travel was real—and the future they sketched included many more people than we remember.  
 
 
-- **Model:** Stable Diffusion XL  
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaus-time-traveler)  
-- [LIVE APP](https://bauhaus-time-traveler.vercel.app/)
-
 [Video of Bauhaus Time Traveller – Duets in Latent Space @ Live Arts Festival 2024 Cape Town](https://youtu.be/8mCOuFeESII?si=R3NbC9xvRUUHXgci)  
 [VIDEO CAPTURE OF APP](https://www.youtube.com/watch?v=aR0nK-Xl_E4&t=37s)
 
 ### Bauhaus Time Traveller (Overlay Version)
-
-<img src="https://github.com/user-attachments/assets/2ba4c9e3-9c44-4f06-8bc5-d9f66aff3db3" alt="Screenshot 2025-03-11 at 7 06 22 PM" width="500">
-
 - **Model:** Stable Diffusion XL  
 - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/bauhaustimetravelers_overlay)  
 - [LIVE APP](https://bauhaustimetravelers-overlay.vercel.app/)
+- 
+<img src="https://github.com/user-attachments/assets/2ba4c9e3-9c44-4f06-8bc5-d9f66aff3db3" alt="Screenshot 2025-03-11 at 7 06 22 PM" width="500">
+
+
 
 [VIDEO CAPTURE OF APP](https://www.youtube.com/watch?v=jUfdvWQZAqE&t=2s)
 
 
 ### Instrumental Proximities
 
+- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/instrumentalproximities)  
+- [LIVE APP](https://github.com/marlonbarrios/instrumentalproximities)
+- 
 <img src="https://github.com/user-attachments/assets/55bc934b-4efa-4275-94fb-73101a8dfeb0" alt="Screenshot 2024-08-26 at 2 47 15 PM" width="500">
 
 I stand before the camera.  
@@ -1114,12 +1138,12 @@ I move.
 I breathe again.  
 **The system listens.**
 
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/instrumentalproximities)  
-- [LIVE APP](https://github.com/marlonbarrios/instrumentalproximities)
 
 ### Impossible Simplicity
 
 - **Model:** MediaPipe Pose Landmark
+- - [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossiblesimplicity)  
+- [LIVE APP](https://marlonbarrios.github.io/impossiblesimplicity/)
 
 <img src="https://github.com/user-attachments/assets/f04d6536-7fa4-42c5-a8b9-d987038da495" alt="Screenshot 2025-03-12 at 11 04 49 PM" width="500">
 <img src="https://github.com/user-attachments/assets/fbae09ec-43b3-47ab-a637-a5d35b7913bc" alt="Screenshot 2025-03-12 at 11 04 56 PM" width="500">
@@ -1181,9 +1205,6 @@ In minimal form—emotion survives.
 
 Thank you for singing with me.  
 We are contained in simplicity, expansively queer.
-
-- [GitHub Repository with project description, code and live app](https://github.com/marlonbarrios/impossiblesimplicity)  
-- [LIVE APP](https://marlonbarrios.github.io/impossiblesimplicity/)
 
 
 
