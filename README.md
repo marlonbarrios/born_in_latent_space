@@ -81,7 +81,7 @@ These systems are not used for their novelty, but for their **glitches, failures
 ## Presentation Formats
 
 
-<img src="hhttps://github.com/user-attachments/assets/54ab7994-4240-4bd5-8262-c4388ee830c8" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+<img src="https://github.com/user-attachments/assets/54ab7994-4240-4bd5-8262-c4388ee830c8" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
 
 
 *Born in Latent Space* is flexible by design and exists in multiple forms:
@@ -95,6 +95,8 @@ In every form, it resists closure. It remains open, recursive, and in process. A
 
 
 ## Long-Term Vision: 2024–2029
+
+<img src="https://github.com/user-attachments/assets/6975185b-933c-465d-84fc-4ec1a90b1896" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
 
 *Born in Latent Space* is part of a five-year research arc into **latent space as metaphor, method, and myth**. It explores how generative systems can help us think otherwise—how they can become partners in designing counter-narratives, speculative archives, and affective technologies that center instability, interdependence, and imagination.
 
