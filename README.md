@@ -21,6 +21,9 @@ We are all, in a sense, **born in latent space**: not as fully formed beings, bu
 
 ## Form and Modality
 
+<img src="https://github.com/user-attachments/assets/8233f89d-0934-43fe-89a7-af6b914b5fdf" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+
+
 *Born in Latent Space* is structured as a sequence of **modular vignettes** and **data-driven rituals**. Each begins with a prompt—an image, a question, a line of code—and unfolds into a live feedback loop of generated outputs and embodied response. The performer navigates a continuously shifting audiovisual environment shaped by:
 
 - Voice, breath, and bodily gesture  
