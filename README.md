@@ -88,6 +88,8 @@ I create **conditions for inquiry**, **contexts for interaction**, and **perform
 *Born in Latent Space* is not a thing.  
 It is a **terrain we pass through**—together.
 
+### [Tech Rider of Born in Latent Space ](https://github.com/user-attachments/files/22024326/Technical.Rider.Born.in.Latent.Space.pdf)
+
 
 
 ## Upcoming 
@@ -97,7 +99,8 @@ It is a **terrain we pass through**—together.
 ## It has been presented at
 
 
-- **Performance Lecture at Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
+- **Performance Lecture at Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berli[Technical Rider – Born in Latent Space.pdf](https://github.com/user-attachments/files/22024324/Technical.Rider.Born.in.Latent.Space.pdf)
+n, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
 - **Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 22 2025** – [workshop](https://lakestudiosberlin.com/event/submerge-festival-2025/)  
 - **OOTFest25 (UN)SEEN** @ Riverside Studios & Open Online Theatre, London, UK – **June 5 – 8 2025** 
 - **CAME Innovation Summit 2025** @ , University of Florida, Gainesville, Florida, USA – **April 11th, 2025**
