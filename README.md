@@ -110,13 +110,17 @@ It is a **terrain we pass through**—together.
 
 
 
-## Upcoming 
+## Upcoming with Marlon Barrios Solano
 
-- **Born in Latent Space – Stockholm University of the Arts** @ Department of Dance, Stockholm, Sweden – **September 17 – 19 2025**  – [uniarts.se](https://www.uniarts.se/)
+- **Born in Latent Space – Stockholm University of the Arts** @ Department of Dance, Stockholm, Sweden – **September 17 – 19 2025** – [uniarts.se](https://www.uniarts.se/)
 
-- **Decolonizing the Digital – Beyond Gravity Festival** @ Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf)  [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
+- **Pangea in Latent Space / The Tectonics of Otherness – Decolonizing the Digital** @ Beyond Gravity Festival, Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf) [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
 
-## It has been presented at
+- **Adventures in Latent Space: Minding the Gaps** – Workshop in London – **More info soon**
+
+- **Connexion Festival** @ Cotonou, Benin – **December 1 – 5 2025**
+
+## Born in Latent Space has been presented at
 
 
 - **Performance Lecture at Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berli[Technical Rider – Born in Latent Space.pdf](https://github.com/user-attachments/files/22024324/Technical.Rider.Born.in.Latent.Space.pdf)
