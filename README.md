@@ -556,14 +556,6 @@ This isn’t identity.
 It’s **version control**.
 
 
-### We Came to Rule
-
-
-[Play Video](https://youtube.com/shorts/1XnJqgZwOrw?si=8NS8DDIoCp7sH4rU)
-
-
-<img src="https://github.com/user-attachments/assets/53e84cf4-47b5-4c00-865e-c3c66ba8e044" alt="Gameplay Screenshot" width="500">
-
 
 ### I am in love with Alan Turing
 
@@ -796,7 +788,6 @@ It’s a party inside uncertainty.
 - Murray Shanahan extending Sloman’s mapping with consciousness axes and nonhuman intelligences [oai_citation:2‡turn0search5]
 
 
-
 [VIDEO of Conversations with Possible Minds – Duets in Latent Space @ Live Arts Festival 2024 Cape Town, SA](https://youtu.be/WNAUKmtXF6g?si=P_j_7FI9gcGLN3R4)
 
 ### 🤝 *You Are the Assistant*
@@ -849,6 +840,15 @@ Or:
 - Shifts from fixing problems to sustaining connection.  
 - Recodes emotional labor as relational, not transactional.  
 - Encourages presence instead of performance.
+
+
+  ### We Came to Rule
+
+
+[Play Video](https://youtube.com/shorts/1XnJqgZwOrw?si=8NS8DDIoCp7sH4rU)
+
+
+<img src="https://github.com/user-attachments/assets/53e84cf4-47b5-4c00-865e-c3c66ba8e044" alt="Gameplay Screenshot" width="500">
 
 ### In Pursuit of Stolen Ghosts
 
