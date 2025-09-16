@@ -558,8 +558,6 @@ It’s **version control**.
 
 ### We Came to Rule
 
-- [GitHub Repository with project description and code](https://github.com/marlonbarrios/alan-ai)
-- [LIVE APP](https://www.alan-ai.app/)
 
 [Play Video](https://youtube.com/shorts/1XnJqgZwOrw?si=8NS8DDIoCp7sH4rU)
 
@@ -570,6 +568,9 @@ It’s **version control**.
 ### I am in love with Alan Turing
 
 <img src="https://github.com/user-attachments/assets/0247b5bd-9df9-4028-bae8-950115c1dca7" alt="Gameplay Screenshot" width="500">
+
+- [GitHub Repository with project description and code](https://github.com/marlonbarrios/alan-ai)
+- [LIVE APP](https://www.alan-ai.app/)
 
 **My name is Alan Turing, and I was born on June 23, 1912, in London, England.**
 
