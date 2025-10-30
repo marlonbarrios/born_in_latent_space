@@ -112,19 +112,13 @@ It is a **terrain we pass through**—together.
 
 ## Upcoming with Marlon Barrios Solano
 
-- **Born in Latent Space – Stockholm University of the Arts** @ Department of Dance, Stockholm, Sweden – **September 17 – 19 2025** – [uniarts.se](https://www.uniarts.se/)
+- **Born in Latent Space – TicTac Art Center, Brussels** – **December 1-5th 2025** – [https://tictacartcentre.com/](https://tictacartcentre.com/)
 
-- **Pangea in Latent Space / The Tectonics of Otherness – Decolonizing the Digital** @ Beyond Gravity Festival, Theater im Depot, Dortmund, Germany – **October 1 – 5 2025** – [Info](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf) [theaterimdepot.de](https://theaterimdepot.de/media/pages/medialibrary/6066c77554-1745435212/open-call-2_update.pdf?utm_source=chatgpt.com)
-
-- **Adventures in Latent Space: Minding the Gaps** – Workshop in London – **More info soon**
-
-- **Connexion Festival** @ Cotonou, Benin – **December 1 – 5 2025**
 
 ## Born in Latent Space has been presented at
 
-
-- **Performance Lecture at Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berli[Technical Rider – Born in Latent Space.pdf](https://github.com/user-attachments/files/22024324/Technical.Rider.Born.in.Latent.Space.pdf)
-n, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
+- **Born in Latent Space – Stockholm University of the Arts** @ Department of Dance, Stockholm, Sweden – **September 17 – 19 2025** – [uniarts.se](https://www.uniarts.se/)
+- **Performance Lecture at Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
 - **Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 22 2025** – [workshop](https://lakestudiosberlin.com/event/submerge-festival-2025/)  
 - **OOTFest25 (UN)SEEN** @ Riverside Studios & Open Online Theatre, London, UK – **June 5 – 8 2025** 
 - **CAME Innovation Summit 2025** @ , University of Florida, Gainesville, Florida, USA – **April 11th, 2025**
