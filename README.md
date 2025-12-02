@@ -113,7 +113,7 @@ In all forms, it resists closure. It remains open, recursive, and in process. It
 
 <img src="https://github.com/user-attachments/assets/6975185b-933c-465d-84fc-4ec1a90b1896" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
 
-*Born in Latent Space* is part of a five-year research arc exploring **latent space as metaphor, method, and myth**. It investigates how generative systems can help us think otherwise—how they can become partners in designing counter-narratives, speculative archives, and affective technologies centered on instability, interdependence, and imagination.
+*Born in Latent Space* is part of a four-year research arc exploring **latent space as metaphor, method, and myth**. It investigates how generative systems can help us think otherwise—how they can become partners in designing counter-narratives, speculative archives, and affective technologies centered on instability, interdependence, and imagination.
 
 I do not make static art pieces.  
 I create **conditions for inquiry**, **contexts for interaction**, and **performative infrastructures** where knowledge becomes a relational, situated, embodied act.
@@ -125,8 +125,6 @@ It is a **terrain we pass through**—together.
 
 ### [Video Documentation from Performnace at Stockholm University of the Arts, SKH, Sepetmber 17th 2025](https://www.youtube.com/watch?v=0XJ6_mCNFFU)
 Caveat: it is always different.
-
-
 
 ## Upcoming with Marlon Barrios Solano
 
