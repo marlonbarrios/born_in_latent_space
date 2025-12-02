@@ -2,7 +2,8 @@
 ### Entangled with Possible Minds  
 #### by Marlon Barrios Solano
 
-<img src="https://github.com/user-attachments/assets/94d0f2bc-3856-4dc3-b9e4-23ae96189481" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+<img src="https://github.com/user-attachments/assets/94d0f2bc-3856-4dc3-b9e4-23ae96189481" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
+
 
 **a performance-lecture integrating creative coding, generative AI, sound, and concept by Marlon Barrios Solano**
 
@@ -25,7 +26,8 @@ We are all, in a sense, **born in latent space**: entering this space randonly, 
 
 ## Form and Modality
 
-<img src="https://github.com/user-attachments/assets/8233f89d-0934-43fe-89a7-af6b914b5fdf" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+<img src="https://github.com/user-attachments/assets/8233f89d-0934-43fe-89a7-af6b914b5fdf" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
+
 
 *Born in Latent Space* is structured as a sequence of **modular vignettes** and **data-driven rituals**. Each begins with a prompt—an image, a question, a line of code—and unfolds into a live feedback loop of generated outputs and embodied response. The performer navigates a continuously shifting audiovisual environment shaped by:
 
@@ -48,7 +50,7 @@ It can also become a **participatory workshop**, inviting participants into a **
 
 ## Expanded Dramaturgies
 
-<img src="https://github.com/user-attachments/assets/608bb2e5-b64d-4a6a-8441-4f3f4f9514d9" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+<img src="https://github.com/user-attachments/assets/608bb2e5-b64d-4a6a-8441-4f3f4f9514d9" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
 *Born in Latent Space* draws on a hybrid system of dramaturgies:
 
@@ -64,7 +66,7 @@ These modalities are woven into the fabric of the performance as tools for acces
 
 ## Thematic Territories
 
-<img src="https://github.com/user-attachments/assets/4b0877ca-5d6c-494b-912e-da4b40987b97" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+<img src="https://github.com/user-attachments/assets/4b0877ca-5d6c-494b-912e-da4b40987b97" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
 The project traverses layered, recursive territories of inquiry, including:
 
@@ -80,7 +82,7 @@ By manipulating prompts and engaging with generative responses, the performer in
 
 ## Technologies and Systems
 
-<img src="https://github.com/user-attachments/assets/3620fc37-18a7-4f60-b0ed-d17016e142ae" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+<img src="https://github.com/user-attachments/assets/3620fc37-18a7-4f60-b0ed-d17016e142ae" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
 The project uses a custom ecosystem of generative tools and open-source platforms:
 
@@ -96,7 +98,7 @@ These systems are not used for their novelty, but for their **glitches, failures
 
 ## Presentation Formats
 
-<img src="https://github.com/user-attachments/assets/54ab7994-4240-4bd5-8262-c4388ee830c8" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+<img src="https://github.com/user-attachments/assets/54ab7994-4240-4bd5-8262-c4388ee830c8" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
 *Born in Latent Space* exists in multiple flexible forms:
 
@@ -111,7 +113,7 @@ In all forms, it resists closure. It remains open, recursive, and in process. It
 
 ## Long-Term Vision: 2024–2028
 
-<img src="https://github.com/user-attachments/assets/6975185b-933c-465d-84fc-4ec1a90b1896" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
+<img src="https://github.com/user-attachments/assets/6975185b-933c-465d-84fc-4ec1a90b1896" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
 *Born in Latent Space* is part of a four-year research arc exploring **latent space as metaphor, method, and myth**. It investigates how generative systems can help us think otherwise—how they can become partners in designing counter-narratives, speculative archives, and affective technologies centered on instability, interdependence, and imagination.
 
