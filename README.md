@@ -158,7 +158,7 @@ I’d also like to acknowledge the support and fellowships that have enabled thi
 - **Supported through several art‑research residencies at [Lake Studios Berlin](https://lakestudiosberlin.com/)** since 2024, offering space to develop *Born in Latent Space* in a creative setting.
 - **A research grant from [fal.ai Research Grants](https://fal.ai/grants)**, focused on real‑time low‑latency model development and creative ussage.
 - **Residency support at [Radiona – Zagreb Makerspace](https://radiona.org/artist-in-residence/)** in Croatia.
-- **The ongoing Maker‑in‑Residence position at the [Center for Arts, Migration, and Entrepreneurship (CAME)](https://arts.ufl.edu/sites/center-for-arts-migration-and-entrepreneurship/programs-research/)** at the University of Florida.
+- **The ongoing Maker‑in‑Residence position at the [Center for Arts, Migration, and Entrepreneurship (CAME)](https://arts.ufl.edu/people/profiles/marlon-barrios-solano/)** at the University of Florida.
 
 ## Seeds and Vectors
 
