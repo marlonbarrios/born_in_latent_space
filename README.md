@@ -13,13 +13,13 @@
 
 ---
 
-*Born in Latent Space* is not an art piece in the traditional sense. It is a **performance-lecture**—a live, evolving system for interaction, inquiry, and critical play between human and machine intelligences. Initiated in 2024, it is a **long-term project** (2024–2029) that manifests as a lecture-performance, an epistemic art installation, a knowledge lab, and a generative workshop environment.
+*Born in Latent Space* is not an art piece in the traditional sense. It is a **performance-lecture**—a live, evolving system for interaction, inquiry, and critical play between human and machine intelligences. Initiated in 2024, it is a **long-term project** (2024–2028) that manifests as a lecture-performance, an epistemic art installation, a knowledge lab, and a generative workshop environment.
 
-The project unfolds as a speculative collaboration between artist and algorithm. Seated at a laptop and surrounded by projection and sound, Marlon Barrios Solano engages live with generative AI systems—text models, image generators, gesture-based tools, and browser-based engines. Together, performer and machine navigate the conceptual and poetic territory of **latent space**.
+The project unfolds as a speculative collaboration between artist and algorithm. In front of a laptop and surrounded by projection and sound, Marlon Barrios Solano engages live with generative AI systems—text models, image generators, gesture-based tools, and browser-based engines. Together, performer and machine navigate the conceptual and poetic territory of **latent space**.
 
 In machine learning, **latent space** refers to a hidden high-dimensional zone where compressed features of data are encoded. It is where patterns exist before they become visible. In this project, latent space becomes more than a computational model—it becomes a **metaphor for human becoming**, a mythic and epistemic zone.
 
-We are all, in a sense, **born in latent space**: not as fully formed beings, but as unstable biographies, recursive gestures, co-emerging experiences. Latent space is where embodiment meets abstraction, where memory is encoded in movement, and where knowledge is not stored—but performed.
+We are all, in a sense, **born in latent space**: entering this space randonly, with vetorial pathwayscas unstable biographies, recursive gestures, co-emerging experiences. Latent space is where embodiment meets abstraction, abstraction meets gavity, where memory is encoded in movement, and where knowledge is not stored—but performed.
 
 ---
 
@@ -109,7 +109,7 @@ In all forms, it resists closure. It remains open, recursive, and in process. It
 
 ---
 
-## Long-Term Vision: 2024–2029
+## Long-Term Vision: 2024–2028
 
 <img src="https://github.com/user-attachments/assets/6975185b-933c-465d-84fc-4ec1a90b1896" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">
 
@@ -122,6 +122,11 @@ I create **conditions for inquiry**, **contexts for interaction**, and **perform
 It is a **terrain we pass through**—together.
 
 ### [Tech Rider of Born in Latent Space ](https://github.com/user-attachments/files/22024326/Technical.Rider.Born.in.Latent.Space.pdf)
+
+### [Video Documentation from Performnace at Stockholm University of the Arts, SKH, Sepetmber 17th 2025](https://www.youtube.com/watch?v=0XJ6_mCNFFU)
+Caveat: it is always different.
+
+
 
 ## Upcoming with Marlon Barrios Solano
 
