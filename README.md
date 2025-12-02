@@ -101,7 +101,7 @@ These systems are not used for their novelty, but for their **glitches, failures
 *Born in Latent Space* exists in multiple flexible forms:
 
 - A **solo performance-lecture** (25–55 minutes)  
-- A **durational or multi-room installation** with generative components  
+- A **durational or multi-screen installation** with generative components  
 - A **creative workshop/lab** exploring AI, performance, and embodied computation  
 - A **hybrid format** combining performance, installation, and participatory sessions  
 
@@ -123,27 +123,29 @@ It is a **terrain we pass through**—together.
 
 ### [Tech Rider of Born in Latent Space ](https://github.com/user-attachments/files/22024326/Technical.Rider.Born.in.Latent.Space.pdf)
 
-
-
 ## Upcoming with Marlon Barrios Solano
 
-- **Born in Latent Space – TicTac Art Center, Brussels** – **December 1-5th 2025** – [https://tictacartcentre.com/](https://tictacartcentre.com/)
+- **Born in Latent Space (25 minutes version) – Spring Into Dance @ University of Florida** – **April 2026** – [https://arts.ufl.edu/event/spring-into-dance/](https://arts.ufl.edu/event/spring-into-dance/)
 
+- **Born in Latent Space – A+E Lab (UK)  and Royal Ballet and Opera House(UK)** – **June 2026** – [https://www.rbo.org.uk/](https://www.rbo.org.uk/)
 
-## Born in Latent Space has been presented at
+- **Born in Latent Space – TicTac Art Center, Brussels** – **June 2026** – [https://tictacartcentre.com/](https://tictacartcentre.com/)
+
+- **Born in Latent Space – Lake Studios Berlin** – **Submerge Festival 2026 Septenber 2026** – [https://lakestudiosberlin.com/](https://lakestudiosberlin.com/)
+
+## Born in Latent Space has been presented at:
 
 - **Born in Latent Space – Stockholm University of the Arts** @ Department of Dance, Stockholm, Sweden – **September 17 – 19 2025** – [uniarts.se](https://www.uniarts.se/)
 - **Performance Lecture at Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 24 2025** – [Info & tickets](https://lakestudiosberlin.com/submerge-festival/)  [Lake Studios Berlin](https://lakestudiosberlin.com/submerge-festival/?utm_source=chatgpt.com)
 - **Submerge Festival — *Submerge: getting into the work* vol. 7** @ Lake Studios Berlin, Berlin, Germany – **July 21 – August 22 2025** – [workshop](https://lakestudiosberlin.com/event/submerge-festival-2025/)  
 - **OOTFest25 (UN)SEEN** @ Riverside Studios & Open Online Theatre, London, UK – **June 5 – 8 2025** 
-- **CAME Innovation Summit 2025** @ , University of Florida, Gainesville, Florida, USA – **April 11th, 2025**
-- **Innovation Hub** @ , Florida State University, Talahassee, Florida, USA – **April 9th, 2025**
-- **XR Sunday Social at A+E Lab** @ A+E Lab Chatham, UK – **March 23th, 2025**
+- **CAME Innovation Summit 2025** @University of Florida, Gainesville, Florida, USA – **April 11th, 2025**
+- **XR Sunday Social at A+E Lab** @A+E Lab Chatham, UK – **March 23th, 2025**
 - **Summit: AI and the Future of Performance** @ University of the Arts of London, London, UK – **March 18th, 2025**
-- **AI and Research Celebration** @ College of Medicine UF, Gainesville, Florida, USA – **February 24th, 2025**
-- **FLOAT Polycrisis** @ How Bazar, Gainesville, Florida, USA – **November 13th, 2024**
-- **Hybrid Biennale** @ Hellerau, Dresden, Germany – **October 26th, 2024**
-- **ICA 2024 Live Arts Festival** @ Cape Town, South Africa – **September 5th, 2024**
+- **AI and Research Celebration** @College of Medicine UF, Gainesville, Florida, USA – **February 24th, 2025**
+- **FLOAT Polycrisis** @How Bazar, Gainesville, Florida, USA – **November 13th, 2024**
+- **Hybrid Biennale** @Hellerau, Dresden, Germany – **October 26th, 2024**
+- **ICA 2024 Live Arts Festival** @Cape Town, South Africa – **September 5th, 2024**
 - **Generative AI, Arts and Ethics Think-Tank** @ Château de Fey, France – **March 5th, 2024**
 - **ACCAD Future Tech** @ The Ohio State University (OSU Dance, Online) – **February 22nd, 2024**
 - **Unfinished Fridays** @ Berlin Lake Studios – **February 23rd, 2024**
