@@ -22,7 +22,7 @@ In machine learning, **latent space** refers to a hidden high-dimensional zone w
 
 We are all, in a sense, **born in latent space**: entering this space randonly, with vetorial pathwayscas unstable biographies, recursive gestures, co-emerging experiences. Latent space is where embodiment meets abstraction, abstraction meets gavity, where memory is encoded in movement, and where knowledge is not stored—but performed.
 
----
+## [Apps for Performance](https://github.com/marlonbarrios/born_in_latent_space_performance_apps)
 
 ## Form and Modality
 
