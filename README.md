@@ -1,10 +1,9 @@
 ## *Born in Latent Space*  
-#### by Marlon Barrios Solano
-
-<img src="https://github.com/user-attachments/assets/94d0f2bc-3856-4dc3-b9e4-23ae96189481" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
-
+#### by Marlon Barrios Solan0
 
 **a performance-lecture integrating creative coding, generative AI, sound, and concept by Marlon Barrios Solano**
+
+<img src="https://github.com/user-attachments/assets/94d0f2bc-3856-4dc3-b9e4-23ae96189481" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
 [Back to home page](https://marlonbarrios.github.io/)
 
@@ -56,8 +55,9 @@ Across all its forms, the project functions as a performative infrastructure: a 
 - **Born in Latent Space – TicTac Art Center, Brussels** – **June 2026** – [https://tictacartcentre.com/](https://tictacartcentre.com/)
 
 - **Born in Latent Space – Lake Studios Berlin** – **Body Digital 2026 November 2026** – [https://lakestudiosberlin.com/](https://lakestudiosberlin.com/)
+- 
 
-  <img src="https://github.com/user-attachments/assets/4b0877ca-5d6c-494b-912e-da4b40987b97" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
+<img src="https://github.com/user-attachments/assets/4b0877ca-5d6c-494b-912e-da4b40987b97" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
 I’d also like to acknowledge the support and fellowships that have enabled this evolving work:
 
@@ -66,7 +66,8 @@ I’d also like to acknowledge the support and fellowships that have enabled thi
 - **Residency support at [Radiona – Zagreb Makerspace](https://radiona.org/artist-in-residence/)** in Croatia.
 - **The ongoing Maker‑in‑Residence position at the [Center for Arts, Migration, and Entrepreneurship (CAME)](https://arts.ufl.edu/people/profiles/marlon-barrios-solano/)** at the University of Florida.
 
-  - [Born in Latent Space (2 min except) OOTFest25 (UN)SEEN, Ijad Dance Company Riverside Studios, London | June 2025}(https://www.youtube.com/watch?v=G-GjwEc1UDE)
+
+- [Born in Latent Space (2 min except) OOTFest25 (UN)SEEN, Ijad Dance Company Riverside Studios, London | June 2025}(https://www.youtube.com/watch?v=G-GjwEc1UDE)
  
 <img src="https://github.com/user-attachments/assets/3620fc37-18a7-4f60-b0ed-d17016e142ae" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
@@ -74,4 +75,4 @@ I’d also like to acknowledge the support and fellowships that have enabled thi
 
 <img src="https://github.com/user-attachments/assets/6975185b-933c-465d-84fc-4ec1a90b1896" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
-# Touring!!
+# Born in Latent Space is Touring!!
