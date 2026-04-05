@@ -66,7 +66,6 @@ I’d also like to acknowledge the support and fellowships that have enabled thi
 - **Residency support at [Radiona – Zagreb Makerspace](https://radiona.org/artist-in-residence/)** in Croatia.
 - **The ongoing Maker‑in‑Residence position at the [Center for Arts, Migration, and Entrepreneurship (CAME)](https://arts.ufl.edu/people/profiles/marlon-barrios-solano/)** at the University of Florida.
 
-
 - [Born in Latent Space (2 min except) OOTFest25 (UN)SEEN, Ijad Dance Company Riverside Studios, London | June 2025}(https://www.youtube.com/watch?v=G-GjwEc1UDE)
  
 <img src="https://github.com/user-attachments/assets/3620fc37-18a7-4f60-b0ed-d17016e142ae" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
@@ -75,8 +74,6 @@ I’d also like to acknowledge the support and fellowships that have enabled thi
 
 <img src="https://github.com/user-attachments/assets/6975185b-933c-465d-84fc-4ec1a90b1896" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
-
-## [Apps for Performance](https://github.com/marlonbarrios/born_in_latent_space_performance_apps)
-
+## [Apps for Born in Latent Space](https://github.com/marlonbarrios/born_in_latent_space_performance_apps)
 
 # Born in Latent Space is Touring!!
