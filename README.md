@@ -55,7 +55,7 @@ Across all its forms, the project functions as a performative infrastructure: a 
 - **Born in Latent Space – TicTac Art Center, Brussels** – **June 2026** – [https://tictacartcentre.com/](https://tictacartcentre.com/)
 
 - **Born in Latent Space – Lake Studios Berlin** – **Body Digital 2026 November 2026** – [https://lakestudiosberlin.com/](https://lakestudiosberlin.com/)
-- 
+
 
 <img src="https://github.com/user-attachments/assets/4b0877ca-5d6c-494b-912e-da4b40987b97" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
 
@@ -74,5 +74,9 @@ I’d also like to acknowledge the support and fellowships that have enabled thi
 ### [Tech Rider of Born in Latent Space ](https://github.com/user-attachments/files/22024326/Technical.Rider.Born.in.Latent.Space.pdf)
 
 <img src="https://github.com/user-attachments/assets/6975185b-933c-465d-84fc-4ec1a90b1896" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
+
+
+## [Apps for Performance](https://github.com/marlonbarrios/born_in_latent_space_performance_apps)
+
 
 # Born in Latent Space is Touring!!
