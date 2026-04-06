@@ -3,7 +3,7 @@
 
 **a performance-lecture integrating creative coding, generative AI, sound, and concept by Marlon Barrios Solano**
 
-<img src="https://github.com/user-attachments/assets/94d0f2bc-3856-4dc3-b9e4-23ae96189481" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
+<img src="https://github.com/user-attachments/assets/94d0f2bc-3856-4dc3-b9e4-23ae96189481" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin Image: Maria Kousi*
 
 [Back to home page](https://marlonbarrios.github.io/)
 
@@ -34,7 +34,7 @@ As an installation, the work becomes spatial and distributed, with autonomous pr
 
 Across all its forms, *Born in Latent Space* functions as a performative infrastructure: a space where ideas are enacted, tested, and transformed through action. It is not a fixed piece but a terrain—an evolving cognitive and aesthetic system that I enter, navigate, and reconfigure each time, in relation to machines, environments, and others.
 
-<img src="https://github.com/user-attachments/assets/8233f89d-0934-43fe-89a7-af6b914b5fdf" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin Image: Maria Kousi*
+<img src="https://github.com/user-attachments/assets/8233f89d-0934-43fe-89a7-af6b914b5fdf" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios BerlinImage: Maria Kousi*
 
 ## Born in Latent Space has been presented at:
 
@@ -54,7 +54,7 @@ Across all its forms, *Born in Latent Space* functions as a performative infrast
 - **ACCAD Future Tech** @ The Ohio State University (OSU Dance, Online) – **February 22nd, 2024**
 - **Unfinished Fridays** @ Berlin Lake Studios – **February 23rd, 2024**
 
-<img src="https://github.com/user-attachments/assets/608bb2e5-b64d-4a6a-8441-4f3f4f9514d9" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
+<img src="https://github.com/user-attachments/assets/608bb2e5-b64d-4a6a-8441-4f3f4f9514d9" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin Image: Maria Kousi*
 
 ## Upcoming performances and residencies
 
@@ -65,7 +65,7 @@ Across all its forms, *Born in Latent Space* functions as a performative infrast
 - **Born in Latent Space – Lake Studios Berlin** – **Body Digital 2026 November 2026** – [https://lakestudiosberlin.com/](https://lakestudiosberlin.com/)
 
 
-<img src="https://github.com/user-attachments/assets/4b0877ca-5d6c-494b-912e-da4b40987b97" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
+<img src="https://github.com/user-attachments/assets/4b0877ca-5d6c-494b-912e-da4b40987b97" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin Image: Maria Kousi*
 
 I’d also like to acknowledge the support and fellowships that have enabled this evolving work:
 
@@ -76,11 +76,11 @@ I’d also like to acknowledge the support and fellowships that have enabled thi
 
 - [Born in Latent Space (2 min except) OOTFest25 (UN)SEEN, Ijad Dance Company Riverside Studios, London | June 2025](https://www.youtube.com/watch?v=G-GjwEc1UDE)
  
-<img src="https://github.com/user-attachments/assets/3620fc37-18a7-4f60-b0ed-d17016e142ae" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
+<img src="https://github.com/user-attachments/assets/3620fc37-18a7-4f60-b0ed-d17016e142ae" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin Image: Maria Kousi*
 
 ### [Tech Rider of Born in Latent Space ](https://github.com/user-attachments/files/22024326/Technical.Rider.Born.in.Latent.Space.pdf)
 
-<img src="https://github.com/user-attachments/assets/6975185b-933c-465d-84fc-4ec1a90b1896" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin | Image: Maria Kousi*
+<img src="https://github.com/user-attachments/assets/6975185b-933c-465d-84fc-4ec1a90b1896" alt="Screenshot 2024-04-26 at 11 57 57 AM" width="1000">*Born in Lalent Space @Submerge Festival 2025 @Lake Studios Berlin Image: Maria Kousi*
 
 ## [Apps, playlists and scores for Born in Latent Space](https://marlonbarrios.github.io/born_in_latent_space_performance_apps/)
 
