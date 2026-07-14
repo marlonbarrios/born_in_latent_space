@@ -12,7 +12,7 @@
 
 # Born in Latent Space
 
-*Born in Latent Space* is a lecture-performance, installation, and workshop platform—an ongoing artistic and research project (2024–2029) that I develop as a living, evolving system rather than a fixed work. :contentReference[oaicite:0]{index=0}  
+*Born in Latent Space* is a lecture-performance, installation, and workshop platform—an ongoing artistic and research project (2024–2029) that I develop as a living, evolving system rather than a fixed work. 
 
 At its core, it is a performance-lecture in which I appear with a laptop, voice, body, and a constellation of custom-built and generative AI applications, engaging in real time with machine processes. However, this format is only one possible manifestation. The work can expand into an installation, unfold as a participatory workshop, or operate as a hybrid environment where these modalities overlap and inform one another.
 
